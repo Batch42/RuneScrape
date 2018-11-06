@@ -1,10 +1,12 @@
 This might be a neural network. It might also just be a text file. Depends really.
 
+Hi! I'm Zachary Taylor!
 
-Harrison Ratcliffe
+Hi! I'm Harrison Ratcliffe!
 
-Matt Manoly
+Hi! I'm Matt Manoly!
 
-Steven Proctor
+Hi! I'm Margaret Fletcher!
 
-Margaret Fletcher
+Hi! I'm Steven Proctor!
+

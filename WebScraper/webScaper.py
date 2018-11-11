@@ -7,24 +7,22 @@ itemDict = {}
 
 text = open("./items", "r").read()
 text = text.split("\n")[:-1]
+f = open("Day1.txt", "a")
 url = 'http://services.runescape.com/m=itemdb_oldschool/api/catalogue/detail.json?item='
 
 def get_item(url):
     text = get(url)
-    print(text.text)
-    patience = 1
-    while(True):
-      if text.text is '':
-        print(url)
-        patience *= 2
-        time.sleep(patience)
-      else:
-        patience = 1
-        j=text.json()
-        print(j['item']['name'])
-        break;
-      #print(j['item']['today'])
-    
+    #print(text.text)
+    j=text.json()
+    name = j['item']['name']
+    base_price = j['item']['current']['price']
+    today_price = j['item']['today']['price']
+    past_price = j['item']['day30']['change']
+    print(name)
+    #print(base_price)
+    #print(today_price)
+    #print(past_price)
+    f.write(name + "\n" + str(base_price) + "\n" + str(today_price) + "\n" + str(past_price))
 
 for names in text:
   names = names.split(":")
@@ -33,6 +31,4 @@ for names in text:
 for items in itemDict:
   newrl = url + itemDict[items]
   get_item(newrl)
-  time.sleep(1)
-  
-
+  time.sleep(5)

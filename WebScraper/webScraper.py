@@ -40,4 +40,4 @@ for names in text:
 for items in itemDict:
   newrl = url + itemDict[items]
   get_item(newrl)
-  time.sleep(5)
+time.sleep(5)

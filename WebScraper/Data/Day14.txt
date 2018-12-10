@@ -1,0 +1,12880 @@
+Cannonball
+202
+- 1
+-4.0%
+Cannon base
+187.0k
++888
+-1.0%
+Cannon stand
+186.7k
++2,238
+-0.0%
+Cannon barrels
+186.6k
++1,989
++0.0%
+Cannon furnace
+187.4k
++29
+-1.0%
+Insect repellent
+183
+0
++28.0%
+Bucket of wax
+464
+0
+-15.0%
+Candle
+210
++2
+-1.0%
+Bronze arrowtips
+5
+0
++25.0%
+Iron arrowtips
+13
+0
++85.0%
+Steel arrowtips
+38
++1
+-9.0%
+Mithril arrowtips
+56
+0
++7.0%
+Adamant arrowtips
+131
++3
++13.0%
+Rune arrowtips
+285
++10
++9.0%
+Opal bolt tips
+9
+0
++80.0%
+Pearl bolt tips
+39
+- 2
++21.0%
+Barb bolttips
+57
+- 1
++5.0%
+Longbow (u)
+6
+- 1
+-25.0%
+Shortbow (u)
+2
+- 1
+-50.0%
+Arrow shaft
+1
+0
+0.0%
+Headless arrow
+5
+0
+-28.0%
+Oak shortbow (u)
+15
++1
++25.0%
+Oak longbow (u)
+9
+0
+-43.0%
+Willow longbow (u)
+14
+0
+-17.0%
+Willow shortbow (u)
+17
+0
+-26.0%
+Maple longbow (u)
+27
+0
+-48.0%
+Maple shortbow (u)
+24
+0
+-56.0%
+Yew longbow (u)
+284
+- 7
+-6.0%
+Yew shortbow (u)
+171
+0
+-0.0%
+Magic longbow (u)
+1,091
+- 5
+-0.0%
+Magic shortbow (u)
+858
++14
+-2.0%
+Guam potion (unf)
+78
++1
+-28.0%
+Marrentill potion (unf)
+55
+- 2
++5.0%
+Tarromin potion (unf)
+223
++3
+-9.0%
+Harralander potion (unf)
+1,006
++7
++15.0%
+Ranarr potion (unf)
+8,195
+- 136
+-5.0%
+Irit potion (unf)
+1,026
+- 1
+-15.0%
+Avantoe potion (unf)
+2,267
+- 18
++2.0%
+Kwuarm potion (unf)
+1,909
+- 10
+-2.0%
+Cadantine potion (unf)
+1,617
+- 36
+-14.0%
+Dwarf weed potion (unf)
+1,158
+0
++0.0%
+Torstol potion (unf)
+8,842
+0
++7.0%
+Strength potion(4)
+390
+- 11
+-13.0%
+Strength potion(3)
+278
+- 7
++9.0%
+Strength potion(2)
+236
+- 3
++21.0%
+Strength potion(1)
+114
+0
++40.0%
+Attack potion(3)
+2
+- 1
+-33.0%
+Attack potion(2)
+5
+0
+-44.0%
+Attack potion(1)
+9
+0
+-18.0%
+Restore potion(3)
+75
++2
+-8.0%
+Restore potion(2)
+95
+0
++1.0%
+Restore potion(1)
+77
+0
+-16.0%
+Defence potion(3)
+353
+- 1
+-1.0%
+Defence potion(2)
+296
+0
+-5.0%
+Defence potion(1)
+210
+0
+-2.0%
+Prayer potion(3)
+7,815
+- 147
+-6.0%
+Prayer potion(2)
+5,208
+- 111
+-5.0%
+Prayer potion(1)
+2,629
+- 48
+-3.0%
+Super attack(3)
+219
+- 3
++16.0%
+Super attack(2)
+172
+0
++10.0%
+Super attack(1)
+86
++1
+-22.0%
+Fishing potion(3)
+159
+0
++14.0%
+Fishing potion(2)
+1,186
+0
+-9.0%
+Fishing potion(1)
+705
+0
+-9.0%
+Super strength(3)
+1,535
+- 18
+-5.0%
+Super strength(2)
+1,091
+0
+-8.0%
+Super strength(1)
+542
+0
+-9.0%
+Super defence(3)
+705
++25
++0.0%
+Super defence(2)
+614
+0
+-17.0%
+Super defence(1)
+363
+0
+-23.0%
+Ranging potion(3)
+1,281
+- 23
+-9.0%
+Ranging potion(2)
+926
++13
+-8.0%
+Ranging potion(1)
+469
++5
+-4.0%
+Antipoison(3)
+240
+0
++42.0%
+Antipoison(2)
+149
+0
++7.0%
+Antipoison(1)
+95
+0
+-8.0%
+Superantipoison(3)
+596
++12
++51.0%
+Superantipoison(2)
+337
+0
++15.0%
+Superantipoison(1)
+205
+0
++2.0%
+Weapon poison
+415
++16
++30.0%
+Zamorak brew(3)
+2,039
+0
+-3.0%
+Zamorak brew(2)
+2,124
+0
+-4.0%
+Zamorak brew(1)
+1,406
+0
+-3.0%
+Poison chalice
+791
+0
++2.0%
+Grimy guam leaf
+14
++1
++27.0%
+Grimy marrentill
+15
+0
+0.0%
+Grimy tarromin
+149
+0
++22.0%
+Grimy harralander
+861
+- 15
++25.0%
+Grimy ranarr weed
+7,923
+- 155
+-5.0%
+Grimy irit leaf
+870
+- 20
+-9.0%
+Grimy avantoe
+2,067
+- 7
++6.0%
+Grimy kwuarm
+1,718
+- 5
++0.0%
+Grimy cadantine
+1,454
++12
+-9.0%
+Grimy dwarf weed
+939
++4
++3.0%
+Grimy torstol
+11.5k
++45
+-5.0%
+Eye of newt
+4
+0
+0.0%
+Red spiders' eggs
+113
++1
++4.0%
+Limpwurt root
+569
+- 30
+-33.0%
+Vial of water
+4
+0
+0.0%
+Vial
+3
+0
++50.0%
+Snape grass
+73
+0
+-12.0%
+Pestle and mortar
+686
+- 36
++3.0%
+Unicorn horn dust
+340
++6
+-1.0%
+Unicorn horn
+277
+- 2
+-2.0%
+White berries
+499
+- 6
+-5.0%
+Dragon scale dust
+255
+0
++14.0%
+Blue dragon scale
+693
++15
+-3.0%
+Wine of zamorak
+1,653
+- 76
+-20.0%
+Jangerberries
+111
+0
+-28.0%
+Guam leaf
+18
+0
+-5.0%
+Marrentill
+18
+0
+-40.0%
+Tarromin
+157
+- 3
++6.0%
+Harralander
+873
+- 18
++25.0%
+Ranarr weed
+7,992
+- 139
+-5.0%
+Irit leaf
+889
+- 16
+-8.0%
+Avantoe
+2,088
+- 14
++5.0%
+Kwuarm
+1,727
+- 12
+-0.0%
+Cadantine
+1,458
+0
+-10.0%
+Dwarf weed
+928
+0
++2.0%
+Torstol
+11.6k
++89
+-5.0%
+Fish food
+376
++7
+-7.0%
+Poison
+351
+0
+-10.0%
+Goblin mail
+63
++2
+-47.0%
+Mithril seeds
+113
++4
+0.0%
+Lobster pot
+223
+- 3
++35.0%
+Small fishing net
+84
+0
+-41.0%
+Big fishing net
+286
+- 4
+-22.0%
+Fishing rod
+88
++1
+-22.0%
+Fly fishing rod
+83
++2
++12.0%
+Harpoon
+92
+- 5
+-53.0%
+Fishing bait
+4
+0
+0.0%
+Feather
+3
+0
+0.0%
+Shrimps
+6
+0
+0.0%
+Raw shrimps
+12
++1
+-14.0%
+Anchovies
+61
+- 2
+-26.0%
+Raw anchovies
+49
++2
+-25.0%
+Sardine
+4
+0
+-33.0%
+Raw sardine
+19
+- 2
+-50.0%
+Salmon
+45
+0
+-15.0%
+Raw salmon
+52
++1
++6.0%
+Trout
+19
+0
+0.0%
+Raw trout
+20
+0
+0.0%
+Cod
+30
+0
+-23.0%
+Raw cod
+127
+- 1
+-35.0%
+Raw herring
+33
+- 1
+-37.0%
+Herring
+4
+0
+-42.0%
+Raw pike
+47
+- 2
+-37.0%
+Pike
+22
+0
+-8.0%
+Raw mackerel
+71
+- 1
+-12.0%
+Mackerel
+8
+- 1
+-46.0%
+Raw tuna
+97
++2
++12.0%
+Tuna
+94
+- 4
++10.0%
+Raw bass
+215
++6
+-10.0%
+Bass
+202
++8
+-17.0%
+Raw swordfish
+385
+- 5
+-4.0%
+Swordfish
+401
+- 3
+-1.0%
+Raw lobster
+209
++2
+-17.0%
+Lobster
+196
+- 3
+-8.0%
+Raw shark
+834
++19
++9.0%
+Shark
+906
+- 4
++0.0%
+Raw manta ray
+1,084
+0
++2.0%
+Manta ray
+1,182
++3
+-4.0%
+Raw sea turtle
+968
+- 39
+-1.0%
+Sea turtle
+1,100
+0
++0.0%
+Seaweed
+58
+0
++7.0%
+Edible seaweed
+25
+- 1
+-3.0%
+Casket
+887
+- 8
++11.0%
+Oyster
+55
+0
++44.0%
+Oyster pearl
+93
+0
++78.0%
+Oyster pearls
+797
+- 3
++23.0%
+Priest gown
+41
+- 2
++20.0%
+Clay
+94
++4
+-30.0%
+Copper ore
+54
++1
+0.0%
+Tin ore
+53
+- 1
+-20.0%
+Iron ore
+131
+0
+-21.0%
+Silver ore
+80
+- 1
+-1.0%
+Gold ore
+364
+- 4
+-7.0%
+Mithril ore
+181
+- 1
+-1.0%
+Adamantite ore
+1,117
+- 8
+-7.0%
+Runite ore
+11.1k
+- 44
+-2.0%
+Coal
+209
++7
++20.0%
+Strange fruit
+691
+- 9
+-16.0%
+Bones
+81
++1
++17.0%
+Burnt bones
+221
+0
+-0.0%
+Bat bones
+216
++8
+-16.0%
+Big bones
+334
+- 9
++21.0%
+Babydragon bones
+1,356
+- 60
++29.0%
+Dragon bones
+2,866
++8
++6.0%
+Druid's robe
+837
+0
+-6.0%
+Druid's robe top
+1,826
+0
++23.0%
+Monk's robe
+212
++4
+-48.0%
+Monk's robe top
+459
++8
+-34.0%
+Shade robe top
+1,865
+- 83
++82.0%
+Shade robe
+1,881
++73
++230.0%
+Fire rune
+5
+0
+0.0%
+Water rune
+5
+0
+0.0%
+Air rune
+5
+0
+0.0%
+Earth rune
+5
+0
+0.0%
+Mind rune
+4
+0
+0.0%
+Body rune
+5
+0
+0.0%
+Death rune
+272
+- 5
++1.0%
+Nature rune
+283
+- 9
++20.0%
+Chaos rune
+101
+- 1
+0.0%
+Law rune
+304
++7
++19.0%
+Cosmic rune
+165
+0
++9.0%
+Blood rune
+306
+- 4
+-11.0%
+Soul rune
+146
+- 1
+-0.0%
+Unpowered orb
+83
+0
+0.0%
+Fire orb
+1,292
++24
+-12.0%
+Water orb
+1,391
++6
+-6.0%
+Air orb
+1,263
++11
+-11.0%
+Earth orb
+1,126
++9
+-17.0%
+Blue wizard robe
+2,658
+- 44
++2.0%
+Blue wizard hat
+209
++1
+-32.0%
+Black robe
+2,081
+- 85
++0.0%
+Tinderbox
+73
+- 1
+-35.0%
+Ashes
+27
++1
+-20.0%
+Unlit torch
+1
+0
+0.0%
+Ship ticket
+75
+0
++2.0%
+Pink boots
+602
+- 13
+-1.0%
+Green boots
+562
+- 30
+-15.0%
+Blue boots
+645
++14
++34.0%
+Cream boots
+348
+0
+-11.0%
+Turquoise boots
+562
+0
++1.0%
+Pink robe top
+542
+0
++0.0%
+Green robe top
+571
++17
++35.0%
+Blue robe top
+548
++15
++19.0%
+Cream robe top
+506
+0
++11.0%
+Turquoise robe top
+236
+0
+-4.0%
+Pink robe bottoms
+218
+0
+-3.0%
+Green robe bottoms
+502
+0
++11.0%
+Blue robe bottoms
+526
+0
+-13.0%
+Cream robe bottoms
+313
+0
+-11.0%
+Turquoise robe bottoms
+409
+0
+-5.0%
+Pink hat
+675
+0
+-3.0%
+Green hat
+665
++32
++2.0%
+Blue hat
+652
+0
+-3.0%
+Cream hat
+684
+0
+-11.0%
+Turquoise hat
+673
+- 29
+-17.0%
+Gnomeball
+4,676
++123
++41.0%
+Cadava berries
+17
+0
+0.0%
+Bronze thrownaxe
+12
+0
+0.0%
+Iron thrownaxe
+40
+0
+-4.0%
+Steel thrownaxe
+16
+0
++14.0%
+Mithril thrownaxe
+91
+0
++9.0%
+Adamant thrownaxe
+119
+0
++7.0%
+Rune thrownaxe
+196
+- 1
++2.0%
+Bronze dart
+10
+0
+-47.0%
+Iron dart
+12
+- 1
+-20.0%
+Steel dart
+13
+0
+0.0%
+Mithril dart
+33
+- 1
++22.0%
+Adamant dart
+125
+0
+-3.0%
+Rune dart
+1,049
++2
+-1.0%
+Bronze dart(p)
+9
+0
+0.0%
+Iron dart(p)
+15
+0
++7.0%
+Steel dart(p)
+20
+0
++5.0%
+Mithril dart(p)
+86
+0
++7.0%
+Adamant dart(p)
+129
++2
++1.0%
+Rune dart(p)
+1,029
++5
+-2.0%
+Bronze dart tip
+29
++1
+-23.0%
+Iron dart tip
+36
+0
+-16.0%
+Steel dart tip
+60
++1
+0.0%
+Mithril dart tip
+89
++1
++11.0%
+Adamant dart tip
+207
+0
+-0.0%
+Rune dart tip
+1,222
+- 17
+-0.0%
+Bronze javelin
+1
+0
+-66.0%
+Iron javelin
+6
+0
+-40.0%
+Steel javelin
+13
+0
++8.0%
+Mithril javelin
+43
+0
++19.0%
+Adamant javelin
+65
++1
++16.0%
+Rune javelin
+157
+- 2
++1.0%
+Bronze javelin(p)
+6
+0
+0.0%
+Iron javelin(p)
+21
+0
+0.0%
+Steel javelin(p)
+83
+0
+0.0%
+Mithril javelin(p)
+38
+0
+0.0%
+Adamant javelin(p)
+118
++4
++3.0%
+Rune javelin(p)
+358
+0
++3.0%
+Crossbow
+141
++7
+-1.0%
+Longbow
+57
++3
++1.0%
+Shortbow
+36
+0
++5.0%
+Oak shortbow
+35
+- 2
+-18.0%
+Oak longbow
+37
+- 1
+-17.0%
+Willow longbow
+113
++1
+-18.0%
+Willow shortbow
+64
++3
+-23.0%
+Maple longbow
+226
+- 4
+-25.0%
+Maple shortbow
+192
++10
+-0.0%
+Yew longbow
+577
++5
+-10.0%
+Yew shortbow
+310
++3
+-12.0%
+Magic longbow
+1,314
+- 4
+-4.0%
+Magic shortbow
+848
++6
+-2.0%
+Iron knife
+52
+- 1
++10.0%
+Bronze knife
+29
+0
+-9.0%
+Steel knife
+72
+- 3
++20.0%
+Mithril knife
+166
+0
++7.0%
+Adamant knife
+402
++5
++1.0%
+Rune knife
+524
+- 1
++10.0%
+Black knife
+66
+0
++11.0%
+Bronze knife(p)
+35
+0
++2.0%
+Iron knife(p)
+125
+0
++7.0%
+Steel knife(p)
+72
+0
++4.0%
+Mithril knife(p)
+201
+0
++12.0%
+Black knife(p)
+131
+0
++4.0%
+Adamant knife(p)
+443
+0
++8.0%
+Rune knife(p)
+698
+0
++8.0%
+Bronze bolts
+2
+- 1
+-33.0%
+Bronze bolts (p)
+52
+0
++18.0%
+Opal bolts
+15
+0
++15.0%
+Pearl bolts
+79
+0
++6.0%
+Barbed bolts
+59
+0
++5.0%
+Bronze arrow
+8
+0
++33.0%
+Bronze arrow(p)
+47
+0
++4.0%
+Iron arrow
+10
+0
++25.0%
+Iron arrow(p)
+31
++1
++6.0%
+Steel arrow
+33
+0
+-25.0%
+Steel arrow(p)
+27
+0
++8.0%
+Mithril arrow
+41
+0
++7.0%
+Mithril arrow(p)
+103
+0
++3.0%
+Adamant arrow
+69
+- 1
++4.0%
+Adamant arrow(p)
+167
+0
++3.0%
+Rune arrow
+86
+- 3
+-1.0%
+Rune arrow(p)
+219
+0
+-1.0%
+Knife
+100
+- 1
+-7.0%
+Bear fur
+54
+- 2
+-22.0%
+Silk
+27
++1
+-12.0%
+Spade
+152
+0
+-18.0%
+Rope
+52
+- 2
++15.0%
+Grey wolf fur
+41
+0
+-12.0%
+Plank
+334
+- 11
+-5.0%
+Christmas cracker
+76.8k
++3,135
++43.0%
+Papyrus
+212
+- 11
+-19.0%
+Charcoal
+400
+- 5
++35.0%
+Machete
+263
+- 13
+-33.0%
+Disk of returning
+4,460
+0
++26.0%
+Brass key
+213
+- 8
+-11.0%
+Tooth half of key
+14.3k
+- 10
++0.0%
+Loop half of key
+9,423
++345
++8.0%
+Crystal key
+24.2k
++275
++3.0%
+Muddy key
+4,204
+0
++40.0%
+Sinister key
+37.6k
+0
+-2.0%
+White apron
+29
+- 1
+-39.0%
+Red cape
+35
+0
+-46.0%
+Brass necklace
+30
+- 1
+-55.0%
+Blue skirt
+115
+- 4
+-15.0%
+Pink skirt
+60
++1
+-14.0%
+Black skirt
+36
+0
+-10.0%
+Wizard hat
+188
++4
+-46.0%
+Black cape
+272
+- 2
+-44.0%
+Blue cape
+290
+- 6
+-28.0%
+Yellow cape
+224
+0
++23.0%
+Right eye patch
+267
+0
++10.0%
+Green cape
+415
++3
+-13.0%
+Purple cape
+648
+0
+-8.0%
+Orange cape
+937
+0
+-1.0%
+Zamorak monk top
+812
+- 8
+-15.0%
+Red partyhat
+32.3k
++48
++70.0%
+Yellow partyhat
+21.1k
++23
++64.0%
+Blue partyhat
+84.0k
++2,593
++28.0%
+Green partyhat
+22.3k
++36
++43.0%
+Purple partyhat
+30.9k
++1,171
++94.0%
+White partyhat
+27.0k
+- 514
++52.0%
+Santa hat
+64.8k
+- 3,413
++102.0%
+Green halloween mask
+13.1k
++437
+-1.0%
+Blue halloween mask
+12.9k
++242
+-2.0%
+Red halloween mask
+21.7k
++825
++2.0%
+Leather gloves
+1
+0
+-75.0%
+Leather boots
+19
+0
++18.0%
+Leather vambraces
+1
+0
+0.0%
+Green d'hide vamb
+1,290
++12
++0.0%
+Iron platelegs
+96
+- 4
+-37.0%
+Steel platelegs
+378
++5
+-5.0%
+Mithril platelegs
+1,325
++32
+-1.0%
+Adamant platelegs
+3,600
++42
++0.0%
+Bronze platelegs
+35
+- 1
+-57.0%
+Black platelegs
+2,215
+- 61
++27.0%
+Rune platelegs
+38.0k
+0
+-0.0%
+Iron plateskirt
+80
+- 2
+-5.0%
+Steel plateskirt
+400
+- 12
+-4.0%
+Mithril plateskirt
+1,345
+- 23
+-0.0%
+Bronze plateskirt
+27
+- 1
+-49.0%
+Black plateskirt
+2,375
+0
++15.0%
+Adamant plateskirt
+4,051
+- 150
++3.0%
+Rune plateskirt
+38.0k
++4
+-0.0%
+Leather chaps
+1
+0
+0.0%
+Studded chaps
+400
+- 16
+-1.0%
+Green d'hide chaps
+2,114
+- 13
+-0.0%
+Iron chainbody
+71
+- 1
+-39.0%
+Bronze chainbody
+7
+0
+-80.0%
+Steel chainbody
+258
+0
+-4.0%
+Black chainbody
+2,021
+- 76
+-11.0%
+Mithril chainbody
+920
+- 14
+-4.0%
+Adamant chainbody
+2,639
++2
+-0.0%
+Rune chainbody
+29.6k
+- 9
++0.0%
+Iron platebody
+101
+- 3
+-50.0%
+Bronze platebody
+19
+- 1
+-58.0%
+Steel platebody
+917
++7
+-5.0%
+Mithril platebody
+2,772
+- 41
+-2.0%
+Adamant platebody
+9,605
++17
++0.0%
+Black platebody
+4,021
+- 33
+-12.0%
+Rune platebody
+38.6k
++18
++0.0%
+Leather body
+4
+0
+-33.0%
+Hardleather body
+3
+- 1
+-66.0%
+Studded body
+421
+- 8
++7.0%
+Green d'hide body
+4,297
+- 20
+-1.0%
+Iron med helm
+9
+0
+-82.0%
+Bronze med helm
+12
+0
+-61.0%
+Steel med helm
+42
++1
+-35.0%
+Mithril med helm
+320
+- 2
+-1.0%
+Adamant med helm
+897
++6
+-7.0%
+Rune med helm
+11.2k
++4
++0.0%
+Dragon med helm
+59.4k
+- 95
++0.0%
+Black med helm
+227
++6
++26.0%
+Iron full helm
+46
+- 2
+-58.0%
+Bronze full helm
+6
+0
+-73.0%
+Steel full helm
+146
+- 2
+-10.0%
+Mithril full helm
+695
++7
+0.0%
+Adamant full helm
+1,778
+- 48
+-5.0%
+Rune full helm
+20.7k
++3
++0.0%
+Black full helm
+1,433
+- 76
++120.0%
+Leather cowl
+2
+0
+-33.0%
+Coif
+14
+0
+-56.0%
+Wooden shield
+79
+0
+-26.0%
+Bronze sq shield
+4
+- 1
+-85.0%
+Iron sq shield
+49
++1
+-24.0%
+Steel sq shield
+196
++1
+-6.0%
+Black sq shield
+423
+- 1
+-8.0%
+Mithril sq shield
+692
+- 11
+-4.0%
+Adamant sq shield
+2,147
++5
++1.0%
+Rune sq shield
+22.6k
+- 4
++0.0%
+Dragon sq shield
+304.7k
++92
+-0.0%
+Bronze kiteshield
+12
+- 1
+-76.0%
+Iron kiteshield
+34
+- 1
+-27.0%
+Steel kiteshield
+266
+- 1
+-8.0%
+Black kiteshield
+2,642
+- 139
++76.0%
+Mithril kiteshield
+1,042
++5
+-4.0%
+Adamant kiteshield
+2,992
++1
+-0.0%
+Rune kiteshield
+32.2k
++7
++0.0%
+Iron dagger
+3
+0
+-72.0%
+Bronze dagger
+5
+0
+-64.0%
+Steel dagger
+16
+0
+-15.0%
+Mithril dagger
+78
++1
+-7.0%
+Adamant dagger
+314
++1
+-0.0%
+Rune dagger
+4,508
++15
+-0.0%
+Dragon dagger
+17.6k
++20
+-0.0%
+Black dagger
+201
+- 5
++48.0%
+Iron dagger(p)
+286
+0
+-2.0%
+Bronze dagger(p)
+250
+0
+0.0%
+Steel dagger(p)
+431
+0
+0.0%
+Mithril dagger(p)
+568
+0
+-4.0%
+Adamant dagger(p)
+687
+0
+-2.0%
+Rune dagger(p)
+6,644
+0
+-1.0%
+Dragon dagger(p)
+18.1k
+0
+-1.0%
+Black dagger(p)
+1,308
+- 61
+-13.0%
+Bronze spear
+246
++11
+-21.0%
+Iron spear
+45
+0
++21.0%
+Steel spear
+230
+- 9
++38.0%
+Mithril spear
+277
+- 2
+-11.0%
+Adamant spear
+987
+- 31
+-4.0%
+Rune spear
+12.1k
++17
++0.0%
+Dragon spear
+37.2k
+- 98
+-3.0%
+Bronze spear(p)
+2,673
+0
+0.0%
+Iron spear(p)
+1,162
+0
++4.0%
+Steel spear(p)
+1,393
+0
+-6.0%
+Mithril spear(p)
+311
+0
+0.0%
+Adamant spear(p)
+1,005
+0
++0.0%
+Rune spear(p)
+24.3k
+0
+-4.0%
+Dragon spear(p)
+47.7k
+0
++4.0%
+Bronze pickaxe
+84
+- 5
++15.0%
+Iron pickaxe
+266
+0
++139.0%
+Steel pickaxe
+828
++16
+-4.0%
+Adamant pickaxe
+3,797
+- 38
++52.0%
+Mithril pickaxe
+485
++2
+-7.0%
+Rune pickaxe
+18.9k
++22
++0.0%
+Bronze sword
+4
+- 1
+-60.0%
+Iron sword
+11
+0
+-69.0%
+Steel sword
+50
+0
+-3.0%
+Black sword
+218
+- 6
++2.0%
+Mithril sword
+288
+- 3
+-7.0%
+Adamant sword
+1,100
+- 10
+-0.0%
+Rune sword
+12.2k
+- 9
+-1.0%
+Bronze longsword
+4
+0
+-86.0%
+Iron longsword
+14
+0
+-54.0%
+Steel longsword
+117
+0
+-17.0%
+Black longsword
+388
+0
++1.0%
+Mithril longsword
+573
++15
++4.0%
+Adamant longsword
+1,684
++21
++0.0%
+Rune longsword
+18.8k
++15
+-0.0%
+Dragon longsword
+59.5k
+- 93
++0.0%
+Bronze 2h sword
+14
+- 1
+-74.0%
+Iron 2h sword
+29
+0
+-56.0%
+Steel 2h sword
+365
++2
+-2.0%
+Black 2h sword
+1,011
+- 15
++7.0%
+Mithril 2h sword
+1,281
++2
+-2.0%
+Adamant 2h sword
+3,574
++23
+-1.0%
+Rune 2h sword
+38.0k
+- 34
++0.0%
+Bronze scimitar
+4
+0
+-71.0%
+Iron scimitar
+8
+0
+-55.0%
+Steel scimitar
+56
+0
+-30.0%
+Black scimitar
+2,422
++1
++1.0%
+Mithril scimitar
+403
+0
+-3.0%
+Adamant scimitar
+2,530
+- 71
++71.0%
+Rune scimitar
+15.1k
+- 6
+-0.0%
+Iron warhammer
+18
+0
+-53.0%
+Bronze warhammer
+3
+- 1
+-66.0%
+Steel warhammer
+178
+- 1
+-11.0%
+Black warhammer
+375
+- 5
++1.0%
+Mithril warhammer
+709
++11
+-5.0%
+Adamant warhammer
+2,211
++34
+-0.0%
+Rune warhammer
+24.6k
+- 30
+-0.0%
+Iron axe
+5
+0
+-80.0%
+Bronze axe
+9
+0
+-79.0%
+Steel axe
+10
+0
+-66.0%
+Mithril axe
+135
+- 4
+-16.0%
+Adamant axe
+1,034
++20
++47.0%
+Rune axe
+7,329
+- 16
++0.0%
+Black axe
+1,412
+- 52
++131.0%
+Iron battleaxe
+16
+0
+-66.0%
+Steel battleaxe
+186
++1
++3.0%
+Black battleaxe
+584
+- 10
++5.0%
+Mithril battleaxe
+771
++16
+-1.0%
+Adamant battleaxe
+2,191
+- 5
+-1.0%
+Rune battleaxe
+24.6k
+- 20
+-0.0%
+Bronze battleaxe
+3
+0
+-75.0%
+Dragon battleaxe
+119.5k
+- 229
++0.0%
+Staff
+28
+- 2
+-71.0%
+Staff of air
+1,701
++9
+-1.0%
+Staff of water
+1,670
++10
+-17.0%
+Staff of earth
+1,305
+- 51
++4.0%
+Staff of fire
+1,550
+- 10
++48.0%
+Magic staff
+58
++2
+-24.0%
+Battlestaff
+8,177
+- 10
++1.0%
+Fire battlestaff
+9,025
++16
+-0.0%
+Water battlestaff
+9,006
+- 1
+-0.0%
+Air battlestaff
+9,004
++3
+-0.0%
+Earth battlestaff
+8,998
++23
+-0.0%
+Mystic fire staff
+25.5k
+- 30
++0.0%
+Mystic water staff
+25.1k
+- 105
+-0.0%
+Mystic air staff
+25.2k
++56
++0.0%
+Mystic earth staff
+25.1k
+- 92
++0.0%
+Iron mace
+10
+- 1
+-76.0%
+Bronze mace
+3
+0
+-85.0%
+Steel mace
+28
+0
+-45.0%
+Black mace
+164
+0
++7.0%
+Mithril mace
+148
+- 1
+-16.0%
+Adamant mace
+640
+- 1
+-1.0%
+Rune mace
+8,290
+- 14
+-0.0%
+Dragon mace
+29.8k
+- 25
++0.0%
+Rune essence
+21
++1
++40.0%
+Air talisman
+88
++4
+-30.0%
+Earth talisman
+220
++6
+-21.0%
+Fire talisman
+2,213
++26
+-3.0%
+Water talisman
+207
+- 1
+-13.0%
+Body talisman
+473
++19
+-32.0%
+Mind talisman
+290
++14
+-60.0%
+Chaos talisman
+909
++44
++24.0%
+Cosmic talisman
+653
+- 4
+-5.0%
+Death talisman
+5,320
+0
+-26.0%
+Nature talisman
+1,124
+- 3
+-57.0%
+Archery ticket
+8
+0
+0.0%
+Red bead
+1,478
+- 30
+-31.0%
+Yellow bead
+1,508
+- 5
+-38.0%
+Black bead
+1,270
+- 67
+-24.0%
+White bead
+1,619
+- 12
+-39.0%
+Amulet of accuracy
+2,356
++38
++118.0%
+Logs
+50
++1
+-23.0%
+Magic logs
+1,091
++1
+-0.0%
+Yew logs
+241
+- 2
+-7.0%
+Maple logs
+8
+0
++14.0%
+Willow logs
+10
+0
+-33.0%
+Oak logs
+41
++2
+-54.0%
+Lockpick
+250
++3
++10.0%
+Steel nails
+32
+- 1
+-3.0%
+Anti-dragon shield
+60
++1
+-3.0%
+Garlic
+28
+0
+0.0%
+Seasoned sardine
+401
+0
+-7.0%
+Doogle leaves
+89
+0
+-11.0%
+Ring mould
+13
++1
+-56.0%
+Amulet mould
+28
++1
+-3.0%
+Necklace mould
+44
++3
+-38.0%
+Holy mould
+19
+0
+-5.0%
+Diamond
+2,051
+- 3
+-1.0%
+Ruby
+1,120
++2
++1.0%
+Emerald
+601
+- 4
+-1.0%
+Sapphire
+603
+- 13
+-15.0%
+Opal
+273
++1
++31.0%
+Jade
+531
++11
++40.0%
+Red topaz
+4,614
++9
++9.0%
+Dragonstone
+12.3k
++188
++2.0%
+Uncut diamond
+3,715
+- 21
++2.0%
+Uncut ruby
+1,725
+- 16
++5.0%
+Uncut emerald
+977
++6
++6.0%
+Uncut sapphire
+999
+- 35
++0.0%
+Uncut opal
+258
+- 1
++63.0%
+Uncut jade
+367
+- 7
++30.0%
+Uncut red topaz
+3,982
+- 28
++7.0%
+Uncut dragonstone
+15.5k
++16
++5.0%
+Gold ring
+105
+0
+-15.0%
+Sapphire ring
+731
+- 3
+-18.0%
+Emerald ring
+717
+0
+-2.0%
+Ruby ring
+1,111
++27
++1.0%
+Diamond ring
+2,088
++28
++6.0%
+Dragonstone ring
+12.3k
++200
++5.0%
+Gold necklace
+106
+- 1
+-17.0%
+Sapphire necklace
+724
+0
+-18.0%
+Emerald necklace
+721
+0
+-4.0%
+Ruby necklace
+1,170
++2
++0.0%
+Diamond necklace
+2,092
+0
+-0.0%
+Dragon necklace
+12.6k
++451
++7.0%
+Gold amulet (u)
+101
++3
+-17.0%
+Sapphire amulet (u)
+588
+- 19
+-4.0%
+Emerald amulet (u)
+640
+0
+-7.0%
+Ruby amulet (u)
+1,208
+0
++3.0%
+Diamond amulet (u)
+2,175
+0
++3.0%
+Dragonstone amulet (u)
+12.1k
+0
++1.0%
+Gold amulet
+71
+0
+-19.0%
+Sapphire amulet
+521
+0
++3.0%
+Emerald amulet
+619
+- 13
+-10.0%
+Ruby amulet
+1,152
+0
+-1.0%
+Diamond amulet
+2,116
+0
+-2.0%
+Dragonstone amulet
+13.0k
+0
++7.0%
+Amulet of glory
+13.2k
+- 68
++6.0%
+Amulet of glory(4)
+13.2k
+- 216
++6.0%
+Unstrung symbol
+95
+- 4
+-18.0%
+Unblessed symbol
+73
+0
++1.0%
+Holy symbol
+268
+- 7
+-12.0%
+Unstrung emblem
+402
+0
+-9.0%
+Unpowered symbol
+271
+0
+-4.0%
+Unholy symbol
+243
+0
++22.0%
+Amulet of strength
+1,229
+- 49
+-9.0%
+Amulet of magic
+617
+- 18
+-9.0%
+Amulet of defence
+727
+- 28
+-19.0%
+Amulet of power
+2,171
+- 42
+-3.0%
+Needle
+44
+- 1
+-10.0%
+Thread
+9
+0
+-25.0%
+Shears
+30
+0
+-44.0%
+Wool
+90
+- 4
+-19.0%
+Cowhide
+97
++2
+-28.0%
+Leather
+130
+0
+-26.0%
+Hard leather
+136
+- 2
+-27.0%
+Green dragon leather
+1,674
+- 4
+-1.0%
+Black dragonhide
+2,852
+- 98
+-8.0%
+Red dragonhide
+2,410
++10
++0.0%
+Blue dragonhide
+1,862
+- 29
+-2.0%
+Green dragonhide
+1,490
+0
+-0.0%
+Chisel
+71
+- 4
+-45.0%
+Brown apron
+110
+- 1
++19.0%
+Ball of wool
+54
+0
++3.0%
+Soft clay
+128
++4
+-29.0%
+Red dye
+378
++10
++46.0%
+Yellow dye
+180
++3
+-26.0%
+Blue dye
+279
+- 4
++20.0%
+Orange dye
+600
+- 1
++9.0%
+Green dye
+389
++5
+-15.0%
+Purple dye
+413
++13
++27.0%
+Molten glass
+194
+- 1
++8.0%
+Bow string
+152
++7
+-10.0%
+Flax
+3
+0
+0.0%
+Soda ash
+98
+0
++4.0%
+Bucket of sand
+74
+0
++4.0%
+Glassblowing pipe
+162
+- 1
++28.0%
+Unfired pot
+90
+0
+-18.0%
+Unfired pie dish
+200
+0
+-11.0%
+Unfired bowl
+162
+- 4
+-27.0%
+Woad leaf
+85
+- 4
++44.0%
+Bronze wire
+113
++3
+-33.0%
+Waterskin(4)
+105
++1
+-26.0%
+Waterskin(0)
+43
+0
+-15.0%
+Desert shirt
+143
++4
+-5.0%
+Desert robe
+110
++2
++10.0%
+Desert boots
+153
+- 4
+-35.0%
+Shantay pass
+8
+0
+-11.0%
+Raw ugthanki meat
+158
+0
++12.0%
+Ugthanki meat
+120
+0
++3.0%
+Pitta bread
+10
+0
++11.0%
+Chopped tomato
+9
+0
+0.0%
+Chopped onion
+8
+0
++14.0%
+Chopped ugthanki
+1
+0
+0.0%
+Onion & tomato
+4
+0
+0.0%
+Ugthanki & onion
+2
+0
+0.0%
+Ugthanki & tomato
+1
+0
+0.0%
+Kebab mix
+149
+0
+0.0%
+Ugthanki kebab
+770
++29
+-6.0%
+Cake tin
+60
+0
+-27.0%
+Cake
+179
+- 1
+-1.0%
+Chocolate cake
+314
+- 2
++0.0%
+Asgarnian ale
+17.0k
+- 891
+-4.0%
+Wizard's mind bomb
+97
+- 6
+-1.0%
+Greenman's ale
+5,311
+0
++4.0%
+Dragon bitter
+140
+0
+0.0%
+Dwarven stout
+95
++4
+-12.0%
+Grog
+670
+0
+-12.0%
+Beer
+78
+- 3
+-18.0%
+Beer glass
+36
++1
+-48.0%
+Bowl of water
+40
++1
+-25.0%
+Bowl
+32
++1
+-20.0%
+Bucket
+6
+- 1
+-25.0%
+Bucket of milk
+17
+0
+-29.0%
+Bucket of water
+18
+0
+-21.0%
+Pot
+5
+0
+-28.0%
+Pot of flour
+190
+- 3
++34.0%
+Jug
+3
+0
+0.0%
+Jug of water
+17
++1
+-43.0%
+Swamp tar
+17
+0
+0.0%
+Swamp paste
+98
+- 1
+-19.0%
+Potato
+23
++2
++21.0%
+Egg
+52
+- 2
+-7.0%
+Grain
+30
+0
++66.0%
+Chef's hat
+113
+0
+-37.0%
+Redberries
+67
++2
++97.0%
+Pastry dough
+248
+0
++21.0%
+Cooking apple
+160
+- 9
+-26.0%
+Onion
+27
+0
++58.0%
+Pumpkin
+8,207
++157
+-44.0%
+Easter egg
+6,900
+- 19
++27.0%
+Banana
+92
++1
++4.0%
+Cabbage
+25
++1
++25.0%
+Spinach roll
+133
+- 4
+-10.0%
+Kebab
+49
++1
++40.0%
+Chocolate bar
+98
+- 6
++34.0%
+Chocolate dust
+119
+- 7
++21.0%
+Cup of tea
+19
+- 1
+-38.0%
+Empty cup
+18
+0
+-28.0%
+Tomato
+73
++2
++21.0%
+Cheese
+63
++3
++57.0%
+Grapes
+183
++1
++19.0%
+Half full wine jug
+14.9k
++609
++48.0%
+Jug of wine
+3
+0
+0.0%
+Stew
+175
++5
+-32.0%
+Spice
+98
++5
+-25.0%
+Curry
+841
++6
+0.0%
+Vodka
+306
++7
+-3.0%
+Whisky
+44
+0
++4.0%
+Gin
+38
+0
+0.0%
+Brandy
+32
+0
++3.0%
+Cocktail guide
+1
+0
+-66.0%
+Cocktail shaker
+77
+0
++16.0%
+Cocktail glass
+221
+- 12
+-6.0%
+Premade blurb' sp.
+258
+- 4
+-11.0%
+Premade choc s'dy
+25
+0
++8.0%
+Premade dr' dragon
+23
+0
+0.0%
+Premade fr' blast
+20
+0
+0.0%
+Premade p' punch
+22
+0
+0.0%
+Premade sgg
+22
+0
+0.0%
+Premade wiz blz'd
+20
+0
+0.0%
+Pineapple punch
+27
+0
++3.0%
+Wizard blizzard
+26
+0
+0.0%
+Blurberry special
+4,264
+- 172
++31.0%
+Choc saturday
+22
+0
+0.0%
+Short green guy
+25
+0
+0.0%
+Fruit blast
+2,003
+0
++7.0%
+Drunk dragon
+24
+0
+0.0%
+Lemon
+93
++2
++6.0%
+Lemon chunks
+134
+0
+0.0%
+Lemon slices
+70
+0
+0.0%
+Orange
+102
+0
+-7.0%
+Orange chunks
+162
+0
+0.0%
+Orange slices
+204
+0
++0.0%
+Pineapple
+188
++2
++5.0%
+Pineapple chunks
+237
+0
++3.0%
+Pineapple ring
+99
+0
++4.0%
+Lime
+63
+- 3
+-22.0%
+Lime chunks
+180
+0
+0.0%
+Lime slices
+175
+0
+0.0%
+Dwellberries
+138
+- 2
++13.0%
+Equa leaves
+168
+0
++16.0%
+Pot of cream
+24
+0
+-11.0%
+Raw beef
+40
++1
++17.0%
+Raw rat meat
+31
+0
+-16.0%
+Raw bear meat
+222
+- 6
++5.0%
+Raw chicken
+33
++1
++10.0%
+Cooked chicken
+40
++2
++2.0%
+Cooked meat
+31
++1
++10.0%
+Swamp toad
+309
+0
+-8.0%
+Toad's legs
+396
+0
+-27.0%
+King worm
+342
+0
+-15.0%
+Batta tin
+7
+0
++40.0%
+Crunchy tray
+54
++1
++8.0%
+Gnomebowl mould
+199
+0
+-7.0%
+Gianne's cook book
+57
++1
++111.0%
+Gnome spice
+159
+- 2
+-30.0%
+Gianne dough
+13
+0
++160.0%
+Chocolate bomb
+1,057
+0
++11.0%
+Tangled toad's legs
+2,212
+0
++8.0%
+Worm hole
+1,289
+0
++4.0%
+Veg ball
+734
+0
++5.0%
+Rock-climbing boots
+82.6k
+0
+0.0%
+Worm crunchies
+935
+0
++2.0%
+Chocchip crunchies
+1,098
+0
++2.0%
+Spicy crunchies
+469
+0
++2.0%
+Toad crunchies
+2,560
++97
++0.0%
+Premade w'm batta
+40
+0
+0.0%
+Premade t'd batta
+40
+0
+0.0%
+Premade c+t batta
+41
+0
+0.0%
+Premade fr't batta
+40
+0
+0.0%
+Premade veg batta
+40
+0
+0.0%
+Premade choc bomb
+89
+0
+0.0%
+Premade ttl
+71
+0
+0.0%
+Premade worm hole
+43
+0
+0.0%
+Premade veg ball
+44
+0
+0.0%
+Premade w'm crun'
+40
+0
+0.0%
+Premade ch' crunch
+41
+0
+0.0%
+Premade s'y crunch
+40
+0
+0.0%
+Premade t'd crunch
+234
+0
++10.0%
+Worm batta
+700
+0
++3.0%
+Toad batta
+753
+0
++12.0%
+Cheese+tom batta
+645
+0
++4.0%
+Fruit batta
+941
+0
++4.0%
+Vegetable batta
+853
+0
++6.0%
+Pizza base
+263
+- 8
++35.0%
+Plain pizza
+537
+- 5
++9.0%
+Meat pizza
+569
+- 14
++4.0%
+Anchovy pizza
+624
+- 2
++4.0%
+Pineapple pizza
+837
+0
++5.0%
+Bread dough
+173
+- 1
++2.0%
+Bread
+152
+- 1
+-37.0%
+Pie dish
+54
++1
++107.0%
+Pie shell
+427
++15
++14.0%
+Uncooked apple pie
+654
+- 22
+-5.0%
+Uncooked meat pie
+581
+0
+-10.0%
+Uncooked berry pie
+579
+0
+-6.0%
+Apple pie
+196
+- 4
+-1.0%
+Redberry pie
+81
++4
++113.0%
+Meat pie
+101
+- 1
++16.0%
+Raw oomlie
+1,069
+0
++10.0%
+Wrapped oomlie
+5,017
++121
++9.0%
+Cooked oomlie wrap
+7,591
+0
+-11.0%
+Hammer
+43
+- 1
+-37.0%
+Bronze bar
+137
++1
+-22.0%
+Iron bar
+257
++1
+-14.0%
+Steel bar
+532
+- 1
++2.0%
+Silver bar
+96
+0
+-23.0%
+Gold bar
+81
+- 1
++1.0%
+Mithril bar
+862
++1
++8.0%
+Adamantite bar
+2,089
+- 5
+-0.0%
+Runite bar
+12.4k
+- 3
+-0.0%
+Shield left half
+66.0k
++288
++0.0%
+Shield right half
+769.1k
+- 4,989
++0.0%
+Steel studs
+474
+0
++10.0%
+Attack potion(4)
+6
+0
+-14.0%
+Restore potion(4)
+134
+0
++2.0%
+Defence potion(4)
+545
++6
+-0.0%
+Prayer potion(4)
+10.5k
+- 172
+-6.0%
+Super attack(4)
+332
+- 3
++20.0%
+Fishing potion(4)
+107
+0
++37.0%
+Super strength(4)
+2,085
+- 29
+-12.0%
+Super defence(4)
+1,050
++6
+-4.0%
+Ranging potion(4)
+1,808
+- 3
+-7.0%
+Antipoison(4)
+385
+- 20
++50.0%
+Superantipoison(4)
+935
+- 18
++45.0%
+Zamorak brew(4)
+2,981
++134
++14.0%
+Antifire potion(4)
+517
++14
++54.0%
+Antifire potion(3)
+267
+0
++4.0%
+Antifire potion(2)
+291
+- 2
+-18.0%
+Antifire potion(1)
+204
+0
+-24.0%
+Assorted flowers
+46
+0
++15.0%
+Red flowers
+20
+0
+-28.0%
+Blue flowers
+12
+0
+-14.0%
+Yellow flowers
+13
+0
+-7.0%
+Purple flowers
+25
+0
+-13.0%
+Orange flowers
+31
++1
+0.0%
+Mixed flowers
+21
+0
++5.0%
+White flowers
+171.1k
+0
++1.0%
+Black flowers
+41.0k
+0
++8.0%
+Lantadyme
+1,450
+- 72
+-11.0%
+Lantadyme potion (unf)
+1,686
+0
+-10.0%
+Grimy lantadyme
+1,341
+- 39
+-15.0%
+Blue d'hide vamb
+1,513
+- 34
+-2.0%
+Red d'hide vamb
+1,913
++16
+-1.0%
+Black d'hide vamb
+2,570
+- 48
++0.0%
+Blue d'hide chaps
+2,324
++19
+-1.0%
+Red d'hide chaps
+3,882
++155
++23.0%
+Black d'hide chaps
+5,636
+- 29
++2.0%
+Blue d'hide body
+5,144
+- 61
+-0.0%
+Red d'hide body
+6,289
++58
++1.0%
+Black d'hide body
+7,617
++38
+-0.0%
+Blue dragon leather
+2,072
+- 15
+-1.0%
+Red dragon leather
+2,606
+0
+-0.0%
+Black dragon leather
+3,138
+- 28
+-6.0%
+Brown toy horsey
+197
+0
++0.0%
+White toy horsey
+310
+0
++6.0%
+Black toy horsey
+178
+0
+-1.0%
+Grey toy horsey
+150
+0
+-2.0%
+Ring of recoil
+997
+- 14
+-13.0%
+Ring of dueling(8)
+933
+- 6
+-7.0%
+Ring of forging
+1,186
+- 15
++11.0%
+Ring of life
+1,997
++38
++1.0%
+Ring of wealth
+12.9k
++252
++8.0%
+Ranger boots
+33.4m
+- 1.0m
+-8.0%
+Wizard boots
+647.8k
+- 23.2k
++41.0%
+Robin hood hat
+3.8m
+- 23.5k
++57.0%
+Black platebody (t)
+120.9k
++2,028
++162.0%
+Black platelegs (t)
+39.0k
+- 1,207
++26.0%
+Black full helm (t)
+31.7k
+0
+-1.0%
+Black kiteshield (t)
+103.9k
+0
++146.0%
+Black platebody (g)
+706.3k
++10.6k
++169.0%
+Black platelegs (g)
+334.9k
++6,032
++172.0%
+Black full helm (g)
+313.8k
+- 2,440
++94.0%
+Black kiteshield (g)
+452.5k
++6,571
++211.0%
+Adamant platebody (t)
+24.1k
+- 390
++131.0%
+Adamant platelegs (t)
+11.4k
++399
++181.0%
+Adamant kiteshield (t)
+13.0k
++587
++169.0%
+Adamant full helm (t)
+8,632
++30
++135.0%
+Adamant platebody (g)
+116.1k
++5,030
++107.0%
+Adamant platelegs (g)
+36.4k
++1,535
++146.0%
+Adamant kiteshield (g)
+64.8k
++2,904
++148.0%
+Adamant full helm (g)
+58.7k
++2,238
++100.0%
+Rune platebody (g)
+279.0k
++9,803
++200.0%
+Rune platelegs (g)
+293.5k
+- 2,661
++199.0%
+Rune full helm (g)
+248.3k
++3,412
++170.0%
+Rune kiteshield (g)
+300.8k
++14.3k
++166.0%
+Rune platebody (t)
+95.8k
++4,464
++130.0%
+Rune platelegs (t)
+85.7k
++2,422
++109.0%
+Rune full helm (t)
+79.9k
++1,326
++166.0%
+Rune kiteshield (t)
+99.4k
++3,332
++114.0%
+Highwayman mask
+68.5k
+0
++11.0%
+Blue beret
+19.0k
++149
+-2.0%
+Black beret
+74.0k
+0
++24.0%
+White beret
+52.5k
+0
++45.0%
+Tan cavalier
+3,429
+0
++23.0%
+Dark cavalier
+2,442
+0
+-3.0%
+Black cavalier
+70.4k
++2,451
++163.0%
+Red headband
+2,950
+0
+-8.0%
+Black headband
+9,770
++90
++26.0%
+Brown headband
+1,650
+0
++16.0%
+Pirate's hat
+15.0k
+0
+-17.0%
+Zamorak platebody
+218.2k
++9,065
++233.0%
+Zamorak platelegs
+158.7k
++2,933
++143.0%
+Zamorak full helm
+579.9k
++18.1k
++181.0%
+Zamorak kiteshield
+256.8k
++12.2k
++200.0%
+Saradomin platebody
+223.0k
+- 7,718
++143.0%
+Saradomin platelegs
+163.8k
+- 4,617
++152.0%
+Saradomin full helm
+203.9k
++8,808
++203.0%
+Saradomin kiteshield
+196.9k
++9,379
++175.0%
+Guthix platebody
+119.1k
++5,530
++196.0%
+Guthix platelegs
+106.1k
++2,317
++169.0%
+Guthix full helm
+88.9k
++2,835
++138.0%
+Guthix kiteshield
+87.8k
++2,208
++128.0%
+Wolf bones
+330
++5
+-14.0%
+Wolfbone arrowtips
+96
+0
+-17.0%
+Achey tree logs
+244
+0
++3.0%
+Ogre arrow shaft
+71
++2
++20.0%
+Flighted ogre arrow
+107
+0
++2.0%
+Ogre arrow
+219
+- 6
++0.0%
+Raw chompy
+1,425
+- 76
+-9.0%
+Cooked chompy
+7,212
+0
+0.0%
+Elemental shield
+2,054
+- 109
++36.0%
+Grey boots
+926
+- 16
+-6.0%
+Grey robe top
+961
+0
+-0.0%
+Grey robe bottoms
+995
+0
+-9.0%
+Grey hat
+984
+0
+-21.0%
+Grey gloves
+1,065
+- 39
+-10.0%
+Red boots
+1,048
+- 39
+-0.0%
+Red robe top
+1,006
+0
+-3.0%
+Red robe bottoms
+1,003
+0
+-7.0%
+Red hat
+992
+- 1
++2.0%
+Red gloves
+1,040
+- 30
+-13.0%
+Yellow boots
+1,061
+- 9
+-11.0%
+Yellow robe top
+885
+0
+-5.0%
+Yellow robe bottoms
+845
+0
+-4.0%
+Yellow hat
+995
+0
+-13.0%
+Yellow gloves
+1,024
++9
+-3.0%
+Teal boots
+841
+- 40
+-6.0%
+Teal robe top
+820
+0
+-6.0%
+Teal robe bottoms
+864
+0
+-10.0%
+Teal hat
+1,013
+0
++10.0%
+Teal gloves
+946
++33
++83.0%
+Purple boots
+935
+0
++1.0%
+Purple robe top
+871
+- 32
++0.0%
+Purple robe bottoms
+833
+- 8
+-7.0%
+Purple hat
+1,110
+0
+-27.0%
+Purple gloves
+918
+- 21
++1.0%
+Moonlight mead
+159
+- 8
+-20.0%
+Silver sickle
+89
+- 2
+-19.0%
+Mort myre fungus
+692
+- 37
+0.0%
+Mort myre stem
+206
+0
++3.0%
+Mort myre pear
+356
+0
++5.0%
+Sickle mould
+44
+0
++12.0%
+Pirate's hook
+5.2m
+0
+-4.0%
+Toadflax
+2,010
+- 24
+-20.0%
+Snapdragon
+8,731
+- 169
+-7.0%
+Toadflax potion (unf)
+2,154
+- 42
+-22.0%
+Snapdragon potion (unf)
+8,998
+- 150
+-7.0%
+Energy potion(4)
+751
+- 22
++43.0%
+Energy potion(3)
+549
+- 25
++49.0%
+Energy potion(2)
+317
+0
++17.0%
+Energy potion(1)
+155
+0
++13.0%
+Super energy(4)
+2,948
+- 16
++14.0%
+Super energy(3)
+2,152
+0
++13.0%
+Super energy(2)
+1,485
+0
+-5.0%
+Super energy(1)
+754
+0
+-9.0%
+Super restore(4)
+10.8k
+- 62
+-4.0%
+Super restore(3)
+7,979
+- 71
+-4.0%
+Super restore(2)
+5,266
+- 109
+-6.0%
+Super restore(1)
+2,700
+0
+-4.0%
+Agility potion(4)
+898
+0
+-12.0%
+Agility potion(3)
+673
+0
+-14.0%
+Agility potion(2)
+694
+0
+-5.0%
+Agility potion(1)
+574
+0
+-12.0%
+Magic potion(4)
+159
++2
+-0.0%
+Magic potion(3)
+97
+0
++10.0%
+Magic potion(2)
+55
+0
+-3.0%
+Magic potion(1)
+48
+0
+-12.0%
+Grimy toadflax
+1,974
+- 54
+-21.0%
+Grimy snapdragon
+8,722
+- 151
+-6.0%
+Lava battlestaff
+9,735
++9
++0.0%
+Mystic lava staff
+26.6k
+- 67
++0.0%
+Black dart
+466
+0
++12.0%
+Black dart(p)
+17
+0
++6.0%
+Bronze claws
+20
+0
+0.0%
+Iron claws
+85
+0
+-24.0%
+Steel claws
+29
++2
++93.0%
+Black claws
+677
+0
++13.0%
+Mithril claws
+211
+0
+-23.0%
+Adamant claws
+1,483
+0
+-8.0%
+Rune claws
+7,186
++69
++3.0%
+Climbing boots
+621
+- 33
+-14.0%
+Spiked boots
+1,920
+0
++5.0%
+Granite shield
+33.7k
++276
++0.0%
+Shaikahan bones
+9,438
+- 25
++26.0%
+Jogre bones
+949
++12
++5.0%
+Potato cactus
+440
+- 17
++3.0%
+Dragon chainbody
+1.3m
+- 20.7k
++95.0%
+Raw karambwan
+540
+- 16
++6.0%
+Cooked karambwan
+645
+- 19
++0.0%
+Karambwan vessel
+979
+0
+-15.0%
+Sliced banana
+25
+0
++25.0%
+Monkey bones
+323
+- 9
+-6.0%
+Cleaning cloth
+303
+- 10
+-17.0%
+Bronze halberd
+263
++10
++7.0%
+Iron halberd
+667
+0
++10.0%
+Steel halberd
+13.6k
+0
+-9.0%
+Black halberd
+7,779
+- 263
+-12.0%
+Mithril halberd
+9,824
+0
++10.0%
+Adamant halberd
+11.7k
+- 218
++4.0%
+Rune halberd
+38.7k
++466
++1.0%
+Dragon halberd
+149.5k
++33
++0.0%
+Limestone
+101
+- 1
+-3.0%
+Barrel
+217
+0
++1.0%
+Raw rabbit
+241
+0
++7.0%
+Cooked rabbit
+332
+- 7
++3.0%
+Bark
+380
+0
+-21.0%
+Vampyre dust
+150
+0
++108.0%
+Myre snelm
+2,188
+0
+-12.0%
+Blood'n'tar snelm
+804
+0
+-11.0%
+Ochre snelm
+1,917
+0
+-8.0%
+Bruise blue snelm
+3,725
++61
++26.0%
+Broken bark snelm
+2,087
+0
+-9.0%
+Blamish myre shell
+696
+- 33
+-15.0%
+Blamish red shell
+1,520
+0
+-17.0%
+Blamish ochre shell
+487
+0
+-7.0%
+Blamish blue shell
+2,908
+0
++5.0%
+Blamish bark shell
+300
+- 1
+-5.0%
+Thin snail
+790
++7
++14.0%
+Lean snail
+943
++6
++15.0%
+Fat snail
+1,100
+0
++9.0%
+Thin snail meat
+425
+0
++3.0%
+Lean snail meat
+370
+0
++8.0%
+Fat snail meat
+845
+0
++6.0%
+Raw slimy eel
+287
+- 2
+-13.0%
+Cooked slimy eel
+234
+0
+-10.0%
+Splitbark helm
+6,069
+- 10
+-18.0%
+Splitbark body
+27.9k
+- 544
+-35.0%
+Splitbark legs
+26.2k
+- 10
+-10.0%
+Splitbark gauntlets
+2,686
+- 5
+-9.0%
+Splitbark boots
+7,452
++331
++33.0%
+Loar remains
+44
+0
+-10.0%
+Phrin remains
+392
+0
+-0.0%
+Riyl remains
+665
+0
++1.0%
+Asyn remains
+2,496
+0
+-5.0%
+Fiyr remains
+4,383
+0
++19.0%
+Unfinished potion
+174
+0
+-9.0%
+Serum 207 (4)
+4
+0
++100.0%
+Serum 207 (3)
+1
+0
+0.0%
+Serum 207 (2)
+4
+0
++33.0%
+Serum 207 (1)
+9
+0
+0.0%
+Limestone brick
+264
++1
++18.0%
+Olive oil(4)
+19
+0
++5.0%
+Olive oil(3)
+41
+0
+0.0%
+Olive oil(2)
+23
+0
+-8.0%
+Olive oil(1)
+23
+0
+-4.0%
+Sacred oil(4)
+1,556
+0
++1.0%
+Sacred oil(3)
+2,025
+0
+-0.0%
+Sacred oil(2)
+597
+0
+-4.0%
+Sacred oil(1)
+368
+0
+-2.0%
+Pyre logs
+886
+0
+-13.0%
+Oak pyre logs
+950
+0
+-10.0%
+Willow pyre logs
+1,727
+0
+-4.0%
+Maple pyre logs
+1,480
+0
+-11.0%
+Yew pyre logs
+1,612
++7
+-1.0%
+Magic pyre logs
+2,839
++36
++3.0%
+Fine cloth
+1,940
+0
++13.0%
+Black plateskirt (t)
+2,629
++104
++62.0%
+Black plateskirt (g)
+7,550
+0
++59.0%
+Adamant plateskirt (t)
+3,540
+0
+-12.0%
+Adamant plateskirt (g)
+4,742
+0
++5.0%
+Rune plateskirt (g)
+40.2k
++704
++2.0%
+Rune plateskirt (t)
+39.1k
+0
++0.0%
+Zamorak plateskirt
+41.7k
++168
++0.0%
+Saradomin plateskirt
+41.7k
+- 1,226
++4.0%
+Guthix plateskirt
+39.5k
++225
++0.0%
+Gilded platebody
+3.4m
+- 39.9k
++139.0%
+Gilded platelegs
+6.3m
+- 331.2k
++37.0%
+Gilded plateskirt
+547.3k
+0
++73.0%
+Gilded full helm
+2.5m
+- 130.7k
++96.0%
+Gilded kiteshield
+2.6m
+- 123.8k
++92.0%
+Flamtaer hammer
+8,202
+0
++16.0%
+Archer helm
+47.0k
+- 892
+-5.0%
+Berserker helm
+49.8k
+- 464
+-0.0%
+Warrior helm
+47.0k
+- 90
++8.0%
+Farseer helm
+40.1k
+- 450
++1.0%
+Fremennik cyan cloak
+1,177
+0
++0.0%
+Fremennik brown cloak
+256
+0
+-6.0%
+Fremennik blue cloak
+1,292
+0
++13.0%
+Fremennik green cloak
+1,239
+0
++6.0%
+Fremennik brown shirt
+271
+0
+-4.0%
+Fremennik grey shirt
+1,251
+0
+-1.0%
+Fremennik beige shirt
+1,142
+0
+-2.0%
+Fremennik red shirt
+1,160
++24
+-4.0%
+Fremennik blue shirt
+959
+0
+-2.0%
+Fremennik red cloak
+1,133
++45
++2.0%
+Fremennik grey cloak
+1,391
++10
++4.0%
+Fremennik yellow cloak
+1,381
+0
++5.0%
+Fremennik teal cloak
+1,028
+0
++15.0%
+Fremennik purple cloak
+561
+0
++63.0%
+Fremennik pink cloak
+828
+0
++18.0%
+Fremennik black cloak
+1,325
++18
+-10.0%
+Fremennik boots
+340
+- 7
++47.0%
+Fremennik robe
+1,133
+0
++8.0%
+Fremennik skirt
+963
+0
++3.0%
+Fremennik hat
+1,664
++34
+-15.0%
+Fremennik gloves
+445
++22
++46.0%
+Keg of beer
+1,160
++22
+-10.0%
+Beer tankard
+371
+0
++24.0%
+Saradomin page 1
+3,242
+- 53
+-18.0%
+Saradomin page 2
+3,890
+- 32
+-20.0%
+Saradomin page 3
+2,630
+- 18
+-10.0%
+Saradomin page 4
+3,955
+- 77
++2.0%
+Zamorak page 1
+675.9k
++10.3k
++43.0%
+Zamorak page 2
+561.2k
+- 6,119
++51.0%
+Zamorak page 3
+564.2k
++1,080
++88.0%
+Zamorak page 4
+466.9k
+- 10.5k
++30.0%
+Guthix page 1
+5,550
++141
+-1.0%
+Guthix page 2
+5,552
++239
+-0.0%
+Guthix page 3
+6,142
++156
++24.0%
+Guthix page 4
+5,241
++161
++12.0%
+Games necklace(8)
+1,007
++16
+-21.0%
+Monkey nuts
+297
+- 15
+-2.0%
+Monkey bar
+569
+- 15
+-11.0%
+Banana stew
+6
+0
+0.0%
+Dragon platelegs
+161.4k
+- 30
++0.0%
+Mystic hat
+13.3k
++500
++33.0%
+Mystic robe top
+71.8k
++32
+-0.0%
+Mystic robe bottom
+47.9k
+- 697
++0.0%
+Mystic gloves
+5,917
++45
++0.0%
+Mystic boots
+8,033
+- 220
+-17.0%
+Mystic hat (dark)
+144.3k
+- 5,002
++48.0%
+Mystic robe top (dark)
+71.6k
+- 180
+-0.0%
+Mystic robe bottom (dark)
+47.6k
+- 117
+-0.0%
+Mystic gloves (dark)
+15.9k
++649
++131.0%
+Mystic boots (dark)
+149.4k
++3,579
++111.0%
+Mystic hat (light)
+11.9k
++486
++13.0%
+Mystic robe top (light)
+71.9k
+- 29
+-0.0%
+Mystic robe bottom (light)
+47.6k
+- 175
+-3.0%
+Mystic gloves (light)
+6,545
++167
++11.0%
+Mystic boots (light)
+15.5k
+- 640
+-14.0%
+Bronze boots
+455
+- 19
+-17.0%
+Iron boots
+5,465
+- 235
++21.0%
+Steel boots
+105
+0
++43.0%
+Black boots
+256
+- 14
+-27.0%
+Mithril boots
+1,930
+- 58
++104.0%
+Adamant boots
+2,109
+- 84
++29.0%
+Rune boots
+8,299
+- 68
++10.0%
+Abyssal whip
+2.9m
+- 85.5k
++1.0%
+Granite maul
+31.2k
++44
+-5.0%
+Mirror shield
+5,131
+- 19
++19.0%
+Bag of salt
+18
+0
+-14.0%
+Rock hammer
+503
++1
++4.0%
+Facemask
+368
++8
+-14.0%
+Earmuffs
+484
++8
+-1.0%
+Nose peg
+384
+- 3
+-10.0%
+Slayer's staff
+20.3k
++120
++5.0%
+Crystal seed
+4,906
++234
++0.0%
+New crystal bow
+918.7k
+0
++0.0%
+New crystal shield
+763.2k
+- 1,103
++1.0%
+Ham shirt
+86
++1
+-38.0%
+Ham robe
+421
++7
++15.0%
+Ham hood
+358
++10
+-19.0%
+Ham cloak
+1,755
++2
+-13.0%
+Ham logo
+1,776
++21
+-13.0%
+Ham gloves
+1,169
++3
+-11.0%
+Ham boots
+2,988
++14
++7.0%
+Team-1 cape
+551
+- 15
+-27.0%
+Team-2 cape
+445
+0
++20.0%
+Team-3 cape
+304
+0
+-6.0%
+Team-4 cape
+545
++2
++4.0%
+Team-5 cape
+803
+0
++15.0%
+Team-6 cape
+47
+0
+-4.0%
+Team-7 cape
+301
++7
+-5.0%
+Team-8 cape
+496
+0
++16.0%
+Team-9 cape
+275
+0
++22.0%
+Team-10 cape
+267
+- 15
++1.0%
+Team-11 cape
+479
+0
++26.0%
+Team-12 cape
+536
+0
+-2.0%
+Team-13 cape
+506
+0
++14.0%
+Team-14 cape
+802
+0
++27.0%
+Team-15 cape
+1,061
+0
++28.0%
+Team-16 cape
+78
++1
++39.0%
+Team-17 cape
+466
+0
++8.0%
+Team-18 cape
+343
+0
++3.0%
+Team-19 cape
+327
++3
++21.0%
+Team-20 cape
+294
+- 3
++108.0%
+Team-21 cape
+510
+0
+-0.0%
+Team-22 cape
+498
+0
++43.0%
+Team-23 cape
+466
+- 20
++11.0%
+Team-24 cape
+789
+0
++22.0%
+Team-25 cape
+902
+0
++42.0%
+Team-26 cape
+75
+- 3
+-27.0%
+Team-27 cape
+419
+0
++39.0%
+Team-28 cape
+436
+0
+-11.0%
+Team-29 cape
+350
+- 2
++3.0%
+Team-30 cape
+308
++1
+-6.0%
+Team-31 cape
+434
+0
++6.0%
+Team-32 cape
+442
+0
++16.0%
+Team-33 cape
+404
+0
+-0.0%
+Team-34 cape
+355
++14
++23.0%
+Team-35 cape
+808
++7
++9.0%
+Team-36 cape
+33
+0
++32.0%
+Team-37 cape
+457
+0
++26.0%
+Team-38 cape
+475
+0
+-6.0%
+Team-39 cape
+318
+0
++18.0%
+Team-40 cape
+264
+- 9
++21.0%
+Team-41 cape
+482
+0
++1.0%
+Team-42 cape
+544
+0
+-3.0%
+Team-43 cape
+488
+0
++2.0%
+Team-44 cape
+775
+0
++33.0%
+Team-45 cape
+1,122
+0
++26.0%
+Team-46 cape
+70
+- 1
++66.0%
+Team-47 cape
+336
+- 6
++4.0%
+Team-48 cape
+466
+0
+0.0%
+Team-49 cape
+300
++2
+-16.0%
+Team-50 cape
+264
+- 14
+-7.0%
+Guthix rest(4)
+2,354
++36
+-8.0%
+Guthix rest(3)
+1,603
++12
+-3.0%
+Guthix rest(2)
+1,032
++3
++3.0%
+Guthix rest(1)
+509
+0
+-7.0%
+Airtight pot
+1,425
+0
++61.0%
+Unfired pot lid
+120
+0
++1.0%
+Pot lid
+728
+- 39
++27.0%
+Bowl of hot water
+167
+- 9
+-21.0%
+Cup of water
+59
+0
+-10.0%
+Cup of hot water
+417
+0
++12.0%
+Giant frog legs
+942
+0
+-1.0%
+Oil lamp
+930
+0
++43.0%
+Empty oil lamp
+3
+0
+-25.0%
+Empty candle lantern
+2
+- 1
+-60.0%
+Candle lantern
+9,593
++175
++25.0%
+Empty oil lantern
+53
+0
+-5.0%
+Oil lantern
+1,051
++9
++14.0%
+Oil lantern frame
+91
+0
+-3.0%
+Lantern lens
+8
+0
++14.0%
+Bullseye lantern (unf)
+332
++10
++7.0%
+Bullseye lantern (empty)
+532
++21
++1.0%
+Bullseye lantern
+2,223
+- 111
++44.0%
+Spiny helmet
+790
+0
+-1.0%
+Black spear
+197
+0
+-9.0%
+Black spear(p)
+10.5k
+0
+0.0%
+Dragon plateskirt
+161.4k
+- 50
++0.0%
+Dragon scimitar
+59.6k
+- 75
+-0.0%
+Kharidian headpiece
+265
++8
++19.0%
+Fake beard
+265
++8
++22.0%
+Karidian disguise
+47
+0
++6.0%
+Willow blackjack
+191
+0
+-4.0%
+Super kebab
+498
+0
++8.0%
+Bandit's brew
+1,085
++6
+-21.0%
+Garlic powder
+30
+0
+0.0%
+Ancient staff
+72.3k
+- 1,588
+-11.0%
+Linen
+853
+- 15
+-1.0%
+Bucket of sap
+247
++11
+-7.0%
+Pile of salt
+40
+0
++5.0%
+Steam rune
+68
+0
+-26.0%
+Mist rune
+44
+- 3
+-16.0%
+Dust rune
+3
+0
+0.0%
+Smoke rune
+37
+0
+-13.0%
+Mud rune
+222
+- 1
+-0.0%
+Lava rune
+4
+0
+-20.0%
+Ahrim's hood
+61.8k
+- 1,024
+-14.0%
+Ahrim's staff
+114.7k
++1,846
+-14.0%
+Ahrim's robetop
+2.0m
+- 32.2k
+-14.0%
+Ahrim's robeskirt
+1.7m
+- 21.9k
+-3.0%
+Dharok's helm
+483.2k
+- 4,907
++59.0%
+Dharok's greataxe
+722.7k
+- 4,236
++63.0%
+Dharok's platebody
+1.6m
+- 4,233
++22.0%
+Dharok's platelegs
+1.5m
+- 1,434
++24.0%
+Guthan's helm
+1.2m
++34.5k
++13.0%
+Guthan's warspear
+1.8m
+- 53.6k
++82.0%
+Guthan's platebody
+995.3k
+- 7,092
++19.0%
+Guthan's chainskirt
+750.6k
+- 12.3k
++5.0%
+Karil's coif
+67.3k
++743
+-12.0%
+Karil's crossbow
+161.3k
++7,152
++8.0%
+Karil's leathertop
+1.8m
+- 6,200
++2.0%
+Karil's leatherskirt
+147.6k
++1,546
+-5.0%
+Bolt rack
+77
+- 1
++26.0%
+Torag's helm
+170.2k
+- 3,450
+-11.0%
+Torag's hammers
+116.7k
++2,229
++5.0%
+Torag's platebody
+251.7k
+- 1,351
++14.0%
+Torag's platelegs
+378.0k
+- 1,857
++18.0%
+Verac's helm
+293.1k
++1,084
++0.0%
+Verac's flail
+159.2k
+- 5,931
++6.0%
+Verac's brassard
+210.0k
++40
+-0.0%
+Verac's plateskirt
+1.1m
+- 7,409
++13.0%
+Bronze brutal
+104
+0
++0.0%
+Iron brutal
+114
+- 2
++10.0%
+Steel brutal
+128
+0
++7.0%
+Black brutal
+161
+0
++7.0%
+Mithril brutal
+173
+- 3
+-2.0%
+Adamant brutal
+324
+0
++25.0%
+Rune brutal
+1,044
+0
++16.0%
+Zogre bones
+807
+0
++27.0%
+Bronze nails
+8
+0
++100.0%
+Iron nails
+18
+0
+-10.0%
+Black nails
+804
+0
+-20.0%
+Mithril nails
+46
+- 1
+-11.0%
+Adamantite nails
+139
+0
++6.0%
+Rune nails
+838
+0
++1.0%
+Unstrung comp bow
+184
+0
++13.0%
+Comp ogre bow
+1,111
++6
++20.0%
+Fayrg bones
+4,659
+0
++1.0%
+Raurg bones
+8,332
+0
++6.0%
+Ourg bones
+45.1k
+- 1,421
++31.0%
+Relicym's balm(4)
+874
+- 19
+-23.0%
+Relicym's balm(3)
+479
+- 17
+-11.0%
+Relicym's balm(2)
+1,083
+- 22
++0.0%
+Relicym's balm(1)
+570
+- 3
+-6.0%
+Ogre coffin key
+2,106
+0
++58.0%
+Ahrim's hood 0
+22.2k
+0
+-0.0%
+Ahrim's staff 0
+53.4k
+- 1,376
+-19.0%
+Ahrim's robetop 0
+1.9m
+- 50.8k
+-13.0%
+Ahrim's robeskirt 0
+1.6m
+- 29.5k
+-4.0%
+Dharok's helm 0
+450.2k
++178
++67.0%
+Dharok's greataxe 0
+670.0k
+- 65
++71.0%
+Dharok's platebody 0
+1.6m
+- 165
++23.0%
+Dharok's platelegs 0
+1.5m
+- 72
++25.0%
+Guthan's helm 0
+1.2m
+0
++18.0%
+Guthan's warspear 0
+1.4m
++62.2k
++55.0%
+Guthan's platebody 0
+952.5k
+0
++12.0%
+Guthan's chainskirt 0
+786.8k
+0
++37.0%
+Karil's coif 0
+30.5k
+- 193
+-18.0%
+Karil's crossbow 0
+97.1k
+0
++1.0%
+Karil's leathertop 0
+1.7m
+0
++2.0%
+Karil's leatherskirt 0
+102.1k
+0
+-5.0%
+Torag's helm 0
+132.0k
+0
+-7.0%
+Torag's hammers 0
+95.9k
+0
+-0.0%
+Torag's platebody 0
+190.9k
+0
++13.0%
+Torag's platelegs 0
+324.7k
+- 1,640
++31.0%
+Verac's helm 0
+248.8k
+0
+-6.0%
+Verac's flail 0
+106.5k
+0
++11.0%
+Verac's brassard 0
+165.9k
+- 1,850
+-2.0%
+Verac's plateskirt 0
+1.0m
+0
++18.0%
+Raw cave eel
+681
++5
+-1.0%
+Cave eel
+610
+0
+-4.0%
+Mining helmet
+739
++17
+-34.0%
+Bone spear
+516
++9
++56.0%
+Bone club
+392
+0
+-17.0%
+Woven top
+1,620
+- 4
+-2.0%
+Shirt
+1,372
+0
++3.0%
+Trousers
+1,315
+0
+-3.0%
+Shorts
+1,820
+0
+-3.0%
+Skirt
+1,576
+0
+-0.0%
+Bird nest
+2,136
++102
++38.0%
+Marigold seed
+1
+0
+0.0%
+Rosemary seed
+2
+0
+0.0%
+Nasturtium seed
+1
+0
+0.0%
+Woad seed
+4
+0
++33.0%
+Limpwurt seed
+155
+0
+-40.0%
+Redberry seed
+1
+0
+0.0%
+Cadavaberry seed
+2
+0
++100.0%
+Dwellberry seed
+2
+0
+0.0%
+Jangerberry seed
+3
+0
++50.0%
+Whiteberry seed
+61
++2
+-8.0%
+Poison ivy seed
+420
++6
+-14.0%
+Cactus seed
+183
++6
++7.0%
+Belladonna seed
+60
+0
+-25.0%
+Mushroom spore
+58
++1
+-4.0%
+Apple tree seed
+7
++1
++40.0%
+Banana tree seed
+4
+- 1
+-42.0%
+Orange tree seed
+14
+0
++55.0%
+Curry tree seed
+172
++2
++4.0%
+Pineapple seed
+4,396
+- 22
+-27.0%
+Papaya tree seed
+8,400
++59
+-31.0%
+Palm tree seed
+60.3k
++1,403
+-8.0%
+Calquat tree seed
+223
+- 8
+-33.0%
+Guam seed
+19
++1
++216.0%
+Marrentill seed
+14
++1
++366.0%
+Tarromin seed
+15
++1
++114.0%
+Harralander seed
+56
++3
++93.0%
+Ranarr seed
+46.7k
+- 197
+-0.0%
+Toadflax seed
+3,029
+- 152
+-13.0%
+Irit seed
+128
++6
++45.0%
+Avantoe seed
+1,257
++60
++1.0%
+Kwuarm seed
+948
++14
+-2.0%
+Snapdragon seed
+51.7k
+- 704
+-9.0%
+Cadantine seed
+1,199
++2
++7.0%
+Lantadyme seed
+2,496
+- 19
+-21.0%
+Dwarf weed seed
+1,093
++23
+-26.0%
+Torstol seed
+79.2k
+- 1,012
+-8.0%
+Barley seed
+54
+- 3
+-55.0%
+Jute seed
+48
+- 3
+-61.0%
+Hammerstone seed
+46
+- 3
+-62.0%
+Asgarnian seed
+47
+- 3
+-61.0%
+Yanillian seed
+49
+- 3
+-63.0%
+Krandorian seed
+72
+- 4
+-57.0%
+Wildblood seed
+443
+- 9
+-45.0%
+Acorn
+32
++1
+-3.0%
+Willow seed
+4,012
+- 111
+-4.0%
+Maple seed
+34.8k
+- 451
+-9.0%
+Yew seed
+76.5k
+- 1,581
+-5.0%
+Magic seed
+150.8k
+- 2,931
+-12.0%
+Potato seed
+1
+0
+0.0%
+Onion seed
+1
+0
+0.0%
+Sweetcorn seed
+3
+0
++50.0%
+Watermelon seed
+281
+0
+-21.0%
+Tomato seed
+2
++1
++100.0%
+Strawberry seed
+24
++1
+-11.0%
+Cabbage seed
+1
+0
+0.0%
+Gardening trowel
+214
++7
+-15.0%
+Secateurs
+209
+0
++31.0%
+Watering can
+186
++5
+-32.0%
+Rake
+180
+- 6
+-4.0%
+Seed dibber
+207
++2
+-9.0%
+Gardening boots
+4,036
+0
+-1.0%
+Empty plant pot
+5
+0
+-16.0%
+Unfired plant pot
+421
+0
+-9.0%
+Filled plant pot
+3
+0
++50.0%
+Oak sapling
+267
++5
+-19.0%
+Willow sapling
+4,412
+- 65
+-1.0%
+Maple sapling
+35.7k
+- 531
+-8.0%
+Yew sapling
+77.5k
+- 974
+-5.0%
+Magic sapling
+153.4k
+- 1,362
+-11.0%
+Basket
+2
+0
+0.0%
+Apples(5)
+1,164
+- 62
+-14.0%
+Oranges(5)
+786
+- 22
+-5.0%
+Strawberries(5)
+984
+- 17
++2.0%
+Bananas(5)
+578
+- 28
+-27.0%
+Empty sack
+1
+- 1
+-50.0%
+Potatoes(10)
+534
++6
+-22.0%
+Onions(10)
+655
+0
+-3.0%
+Cabbages(10)
+713
++4
+-11.0%
+Apple sapling
+203
++9
++17.0%
+Banana sapling
+131
+0
++9.0%
+Orange sapling
+142
+0
++5.0%
+Curry sapling
+486
++2
+-8.0%
+Pineapple sapling
+4,711
+- 92
+-23.0%
+Papaya sapling
+9,232
++109
+-28.0%
+Palm sapling
+62.4k
++1,805
+-6.0%
+Calquat sapling
+675
+- 7
+-12.0%
+Strawberry
+162
++5
++30.0%
+Elemental talisman
+3,528
+- 37
+-10.0%
+Binding necklace
+923
+0
+-7.0%
+Tiara mould
+84
++3
++21.0%
+Tiara
+40
+0
+-11.0%
+Air tiara
+5
+- 1
+-50.0%
+Mind tiara
+54
+- 3
++14.0%
+Water tiara
+5
+0
+-28.0%
+Body tiara
+2
+0
+-66.0%
+Earth tiara
+5
+0
++25.0%
+Fire tiara
+310
++11
++73.0%
+Cosmic tiara
+11
+0
+-38.0%
+Nature tiara
+20
+0
+-35.0%
+Chaos tiara
+9
+0
+-10.0%
+Death tiara
+3,186
+0
++21.0%
+Initiate sallet
+3,331
+- 32
++0.0%
+Initiate hauberk
+7,307
+- 385
++22.0%
+Initiate cuisse
+4,673
++10
+-0.0%
+Bronze arrow(p+)
+10
+0
++11.0%
+Iron arrow(p+)
+17
+0
++6.0%
+Steel arrow(p+)
+211
+0
++3.0%
+Mithril arrow(p+)
+82
+0
++3.0%
+Adamant arrow(p+)
+503
+0
++2.0%
+Rune arrow(p+)
+527
+0
++0.0%
+Bronze arrow(p++)
+18
+0
++5.0%
+Iron arrow(p++)
+49
+0
++8.0%
+Steel arrow(p++)
+1,088
+0
++3.0%
+Mithril arrow(p++)
+108
+0
++4.0%
+Adamant arrow(p++)
+71
+0
++12.0%
+Rune arrow(p++)
+1,306
+0
++9.0%
+Bronze dart(p+)
+26
+0
+0.0%
+Iron dart(p+)
+20
+0
++5.0%
+Steel dart(p+)
+53
+0
++3.0%
+Black dart(p+)
+14
+0
+0.0%
+Mithril dart(p+)
+60
+0
++9.0%
+Adamant dart(p+)
+479
+0
++8.0%
+Rune dart(p+)
+1,351
+0
++8.0%
+Bronze dart(p++)
+16
+0
++6.0%
+Iron dart(p++)
+35
+0
++12.0%
+Steel dart(p++)
+38
+0
++2.0%
+Black dart(p++)
+19
+0
++5.0%
+Mithril dart(p++)
+140
+0
++9.0%
+Adamant dart(p++)
+1,147
+0
++8.0%
+Rune dart(p++)
+2,262
+0
+-0.0%
+Bronze javelin(p+)
+6
+0
+0.0%
+Iron javelin(p+)
+6
+0
+0.0%
+Steel javelin(p+)
+8
+0
+0.0%
+Mithril javelin(p+)
+16
+0
+0.0%
+Adamant javelin(p+)
+113
+0
++4.0%
+Rune javelin(p+)
+363
+0
++4.0%
+Bronze javelin(p++)
+7
+0
+0.0%
+Iron javelin(p++)
+7
+0
++16.0%
+Steel javelin(p++)
+21
+0
+0.0%
+Mithril javelin(p++)
+14
+0
+0.0%
+Adamant javelin(p++)
+141
+0
++4.0%
+Rune javelin(p++)
+631
+0
++3.0%
+Bronze knife(p+)
+30
+0
+0.0%
+Iron knife(p+)
+103
++3
++8.0%
+Steel knife(p+)
+58
+0
++5.0%
+Mithril knife(p+)
+135
+0
++9.0%
+Black knife(p+)
+78
+0
++4.0%
+Adamant knife(p+)
+269
+0
++9.0%
+Rune knife(p+)
+1,001
+0
++16.0%
+Bronze knife(p++)
+62
+0
++8.0%
+Iron knife(p++)
+423
+0
++6.0%
+Steel knife(p++)
+144
+0
++7.0%
+Mithril knife(p++)
+725
+0
++11.0%
+Black knife(p++)
+248
+0
++12.0%
+Adamant knife(p++)
+1,959
+0
++4.0%
+Rune knife(p++)
+1,043
+- 15
++8.0%
+Iron dagger(p+)
+2,941
+0
+-4.0%
+Bronze dagger(p+)
+8,828
+0
+-4.0%
+Steel dagger(p+)
+2,901
+0
+-4.0%
+Mithril dagger(p+)
+6,206
+0
+-8.0%
+Adamant dagger(p+)
+3,720
+- 159
+-12.0%
+Rune dagger(p+)
+4,479
++9
++0.0%
+Dragon dagger(p+)
+17.2k
+- 191
+-4.0%
+Black dagger(p+)
+10.7k
+0
+-21.0%
+Iron dagger(p++)
+5,184
+0
++13.0%
+Bronze dagger(p++)
+11.9k
+0
+-9.0%
+Steel dagger(p++)
+6,508
+0
++1.0%
+Mithril dagger(p++)
+6,309
+0
++6.0%
+Adamant dagger(p++)
+7,884
+0
++22.0%
+Rune dagger(p++)
+12.4k
++122
++7.0%
+Dragon dagger(p++)
+24.9k
++694
++0.0%
+Black dagger(p++)
+5,449
+0
++8.0%
+Bronze spear(p+)
+699
+0
+0.0%
+Iron spear(p+)
+54
+0
+0.0%
+Steel spear(p+)
+188
+0
++3.0%
+Mithril spear(p+)
+6,289
+0
+-1.0%
+Adamant spear(p+)
+1,420
+0
+0.0%
+Rune spear(p+)
+34.4k
+0
+-4.0%
+Dragon spear(p+)
+48.0k
+0
+-7.0%
+Bronze spear(p++)
+26
+0
++4.0%
+Iron spear(p++)
+15.8k
+0
+-8.0%
+Steel spear(p++)
+283
+0
++3.0%
+Mithril spear(p++)
+14.3k
+- 710
+-21.0%
+Adamant spear(p++)
+2,620
+0
++15.0%
+Rune spear(p++)
+20.3k
+0
++3.0%
+Dragon spear(p++)
+42.2k
++902
++1.0%
+Black spear(p+)
+22.7k
+0
+0.0%
+Black spear(p++)
+11.7k
+0
+-1.0%
+Asgarnian ale(m)
+779
+0
++8.0%
+Mature wmb
+5,135
+0
++4.0%
+Greenman's ale(m)
+23.8k
++431
+-20.0%
+Dragon bitter(m)
+231
+0
+0.0%
+Dwarven stout(m)
+22.6k
+- 588
++17.0%
+Moonlight mead(m)
+3,952
+0
+0.0%
+Axeman's folly
+1,592
+0
+-7.0%
+Axeman's folly(m)
+43.2k
++616
+-6.0%
+Chef's delight
+48.5k
+0
++3.0%
+Chef's delight(m)
+45.0k
+0
++26.0%
+Slayer's respite
+25
++2
+-30.0%
+Slayer's respite(m)
+22.7k
+0
++3.0%
+Cider
+852
+0
++5.0%
+Mature cider
+27.4k
+0
++4.0%
+Ale yeast
+680
+0
+-7.0%
+Calquat keg
+190
+0
+-3.0%
+Dwarven stout(4)
+16.2k
+0
+-4.0%
+Asgarnian ale(4)
+3,462
+0
++3.0%
+Greenmans ale(4)
+17.0k
+0
+-16.0%
+Mind bomb(4)
+15.5k
+0
++6.0%
+Dragon bitter(4)
+4,396
+0
+0.0%
+Moonlight mead(4)
+150.0k
+0
+0.0%
+Axeman's folly(4)
+30.9k
+0
+0.0%
+Chef's delight(4)
+14.5k
+0
+-4.0%
+Slayer's respite(4)
+53.9k
+0
+-13.0%
+Cider(4)
+5,065
+0
+0.0%
+Dwarven stout(m4)
+377.7k
+0
+0.0%
+Asgarnian ale(m4)
+2,152
+0
+0.0%
+Greenmans ale(m4)
+175.4k
+0
+0.0%
+Mind bomb(m4)
+17.0k
++741
++4.0%
+Dragon bitter(m4)
+12.5k
+0
+0.0%
+Moonlight mead(m4)
+200.0k
+0
+0.0%
+Axeman's folly(m4)
+257.4k
+0
+0.0%
+Chef's delight(m4)
+191.0k
+0
+0.0%
+Slayer's respite(m4)
+433.2k
+0
+-3.0%
+Cider(m4)
+64.8k
+0
+0.0%
+Jute fibre
+938
+0
+-5.0%
+Willow branch
+1,780
+- 5
++27.0%
+Coconut milk
+580
+0
++15.0%
+Weapon poison(+)
+1,644
+0
++32.0%
+Weapon poison(++)
+7,107
++176
++34.0%
+Antidote+(4)
+1,589
+0
++11.0%
+Antidote+(3)
+2,875
+0
+-1.0%
+Antidote+(2)
+1,889
+0
+-0.0%
+Antidote+(1)
+1,168
+0
+-0.0%
+Antidote++(4)
+440
++4
++34.0%
+Antidote++(3)
+363
+0
+-24.0%
+Antidote++(2)
+218
+0
+-4.0%
+Antidote++(1)
+211
+0
+-18.0%
+Tomatoes(5)
+595
+- 9
+-11.0%
+Curry leaf
+184
+- 4
++0.0%
+Papaya fruit
+301
+- 10
+-13.0%
+Coconut
+422
++15
++14.0%
+Calquat fruit
+236
++12
++91.0%
+Watermelon
+16
++1
++14.0%
+Watermelon slice
+35
+- 1
+-10.0%
+Sweetcorn
+374
+0
+-1.0%
+Cooked sweetcorn
+175
++1
++6.0%
+Apple mush
+20
++1
++5.0%
+Hammerstone hops
+88
+0
++20.0%
+Asgarnian hops
+180
+0
++12.0%
+Yanillian hops
+1,332
+- 26
+-6.0%
+Krandorian hops
+250
+0
+-3.0%
+Wildblood hops
+181
+0
++13.0%
+Mushroom
+193
+- 4
++12.0%
+Barley
+556
+0
++13.0%
+Barley malt
+1,018
++7
++18.0%
+Marigolds
+83
+0
+-29.0%
+Nasturtiums
+252
++2
++18.0%
+Rosemary
+56
++3
++69.0%
+Cactus spine
+2,209
+- 22
+-2.0%
+Poison ivy berries
+271
++6
+-5.0%
+Compost
+24
+- 1
+-4.0%
+Supercompost
+762
+- 5
+-7.0%
+Plant cure
+200
+- 8
+-23.0%
+Magic string
+525
+0
+-10.0%
+Oak roots
+80
+- 4
++31.0%
+Willow roots
+80
+- 3
++81.0%
+Maple roots
+87
+- 5
++47.0%
+Yew roots
+232
+- 9
+-24.0%
+Magic roots
+2,417
++68
++11.0%
+Weeds
+46
+- 2
+-30.0%
+Bronze bolts (p+)
+96
+0
++9.0%
+Bronze bolts (p++)
+150
+0
++17.0%
+Rock-shell helm
+24.0k
+0
++6.0%
+Rock-shell plate
+38.8k
++23
++0.0%
+Rock-shell legs
+38.3k
++34
+-1.0%
+Spined helm
+93.9k
++2,031
++13.0%
+Spined body
+4,667
+0
+-19.0%
+Spined chaps
+3,850
+0
+-24.0%
+Skeletal helm
+90.1k
+0
+-4.0%
+Skeletal top
+26.8k
+- 68
+-8.0%
+Skeletal bottoms
+24.2k
++479
+-3.0%
+Spined boots
+58.6k
++1,472
++16.0%
+Rock-shell boots
+439
+0
+-16.0%
+Skeletal boots
+99.7k
++80
++4.0%
+Spined gloves
+38.7k
+0
++47.0%
+Rock-shell gloves
+1,136
++51
++66.0%
+Skeletal gloves
+110.0k
+0
++12.0%
+Dagannoth hide
+556
+0
++19.0%
+Rock-shell chunk
+11.4k
+0
+-1.0%
+Rock-shell shard
+18.5k
+0
+-2.0%
+Rock-shell splinter
+21.8k
+0
+-2.0%
+Skull piece
+42.3k
+0
++4.0%
+Ribcage piece
+52.9k
+0
+0.0%
+Fibula piece
+20.2k
+0
++1.0%
+Circular hide
+53.1k
+0
+-2.0%
+Flattened hide
+12.8k
+0
+-4.0%
+Stretched hide
+22.4k
+0
+-4.0%
+Teak pyre logs
+2,470
+0
+-5.0%
+Mahogany pyre log
+2,161
+0
+-4.0%
+Broodoo shield (10)
+3,163
+0
+-10.0%
+Broodoo shield
+5,365
+- 139
+-0.0%
+Thatch spar light
+2
++1
+0.0%
+Thatch spar med
+5
+0
++25.0%
+Thatch spar dense
+32
+0
++3.0%
+Snake hide
+651
+0
+-5.0%
+Snakeskin
+19
+0
+-24.0%
+Spider carcass
+106
+0
+-6.0%
+Spider on stick
+300
+0
+-2.0%
+Spider on shaft
+328
+0
+-0.0%
+Skewer stick
+13
+0
++44.0%
+Trading sticks
+9
+0
++28.0%
+Gout tuber
+713.0k
+0
++3.0%
+Opal machete
+371
+0
++38.0%
+Jade machete
+9,479
+0
++0.0%
+Red topaz machete
+23.8k
+- 823
++16.0%
+Proboscis
+205
+0
++13.0%
+Snakeskin body
+606
++16
+-17.0%
+Snakeskin chaps
+457
+- 5
+-10.0%
+Snakeskin bandana
+95
++1
+-30.0%
+Snakeskin boots
+161
+- 3
+-35.0%
+Snakeskin vambraces
+194
+- 6
+-18.0%
+Mahogany logs
+383
++5
+-12.0%
+Teak logs
+296
+- 10
+-5.0%
+Tribal mask
+2,117
+0
+-23.0%
+Tribal top
+4,671
+0
+-5.0%
+Villager robe
+8,565
+0
+-1.0%
+Villager hat
+7,003
+0
+-3.0%
+Villager armband
+3,286
+0
+-7.0%
+Villager sandals
+4,417
+0
+-7.0%
+Fez
+697
+0
++13.0%
+Desert top
+790
+- 34
+-0.0%
+Desert robes
+975
+0
++17.0%
+Desert legs
+1,065
+0
+-27.0%
+Menaphite purple hat
+862
+0
+-11.0%
+Menaphite purple top
+911
+0
++14.0%
+Menaphite purple robe
+985
+0
++0.0%
+Menaphite purple kilt
+737
++3
+-6.0%
+Menaphite red hat
+888
++10
+-22.0%
+Menaphite red top
+911
+0
++5.0%
+Menaphite red robe
+994
+0
+-20.0%
+Menaphite red kilt
+1,804
+0
+-9.0%
+Oak blackjack(o)
+496
+0
++9.0%
+Oak blackjack(d)
+353
+0
+-4.0%
+Willow blackjack(o)
+1,257
+0
++7.0%
+Willow blackjack(d)
+697
+0
++4.0%
+Maple blackjack
+1,773
++9
++12.0%
+Maple blackjack(o)
+2,581
+- 77
++5.0%
+Maple blackjack(d)
+3,357
++106
++15.0%
+Compost potion(4)
+984
+- 10
++40.0%
+Compost potion(3)
+390
+0
+-0.0%
+Compost potion(2)
+364
+0
++5.0%
+Compost potion(1)
+171
+0
++4.0%
+Toktz-xil-ul
+1,529
+- 2
+-7.0%
+Toktz-xil-ak
+370.3k
+- 14.2k
++2.0%
+Toktz-ket-xil
+276.7k
+- 6,298
++56.0%
+Toktz-xil-ek
+96.0k
+0
++5.0%
+Toktz-mej-tal
+582.6k
+0
++1.0%
+Tzhaar-ket-em
+249.4k
+0
++16.0%
+Tzhaar-ket-om
+186.9k
+- 5,720
+-3.0%
+Mud battlestaff
+99.1k
+- 990
+-3.0%
+Mystic mud staff
+129.6k
+- 340
++5.0%
+Obsidian cape
+887.3k
+- 37.5k
++23.0%
+Uncut onyx
+3.1m
+0
++2.0%
+Onyx
+3.2m
++103.8k
++5.0%
+Onyx ring
+2.9m
+0
++1.0%
+Onyx necklace
+3.1m
+0
+0.0%
+Onyx amulet (u)
+3.0m
+0
++2.0%
+Onyx amulet
+3.2m
+0
++2.0%
+Ring of stone
+3.0m
+0
++9.0%
+Amulet of fury
+3.1m
+- 9,241
++1.0%
+White claws
+2,469
+0
+-13.0%
+White battleaxe
+4,954
+0
++0.0%
+White dagger
+128
+0
+0.0%
+White dagger(p)
+125
+0
+0.0%
+White dagger(p+)
+143
+0
+0.0%
+White dagger(p++)
+201
+0
++3.0%
+White halberd
+6,925
+0
+-9.0%
+White mace
+627
+0
+0.0%
+White magic staff
+1,381
+0
++18.0%
+White sword
+6,173
+0
+-1.0%
+White longsword
+9,544
+0
+-11.0%
+White 2h sword
+2,105
+0
+-5.0%
+White scimitar
+3,316
+0
+-1.0%
+White warhammer
+1,702
+0
++2.0%
+White chainbody
+2,672
+- 125
+-13.0%
+White platebody
+5,958
+0
++29.0%
+White boots
+2,385
+0
++73.0%
+White med helm
+9,549
+0
+-9.0%
+White full helm
+1,959
++17
++11.0%
+White platelegs
+2,932
+0
++2.0%
+White plateskirt
+10.2k
+0
+-9.0%
+White gloves
+2,192
++43
++79.0%
+White sq shield
+9,878
+0
+-6.0%
+White kiteshield
+2,496
++50
+-9.0%
+Empty fishbowl
+1
+- 1
+-50.0%
+Ground guam
+4
+- 1
+0.0%
+Saradomin brew(4)
+3,547
++169
++36.0%
+Saradomin brew(3)
+2,540
++121
++33.0%
+Saradomin brew(2)
+1,424
+0
++13.0%
+Saradomin brew(1)
+737
+0
++16.0%
+Crushed nest
+2,243
++107
++38.0%
+Pat of butter
+140
++7
++50.0%
+Baked potato
+92
+- 2
+-5.0%
+Potato with butter
+388
+- 11
+-2.0%
+Potato with cheese
+446
++1
+-3.0%
+Seercull
+22.4k
+- 135
+-27.0%
+Dagannoth bones
+9,039
+- 53
++1.0%
+Seers ring
+473.7k
+- 24.9k
++3.0%
+Archers ring
+4.9m
+- 12.0k
++8.0%
+Warrior ring
+167.1k
++3,704
++93.0%
+Berserker ring
+4.2m
+- 50.1k
++31.0%
+Dragon axe
+61.2k
+- 433
+-9.0%
+Black desert shirt
+1,625
++18
++20.0%
+Black desert robe
+1,833
++25
++13.0%
+Guthix mjolnir
+4,062
+0
++1.0%
+Saradomin mjolnir
+4,011
+0
++0.0%
+Zamorak mjolnir
+4,535
+0
++4.0%
+Choc-ice
+90
+- 5
++2.0%
+Granite legs
+40.2k
++212
+-3.0%
+Wyvern bones
+2,843
+- 11
++7.0%
+Fur
+128
+0
+-11.0%
+Mage's book
+6.0m
+- 29.5k
++11.0%
+Arena book
+512
+0
++21.0%
+Beginner wand
+254.8k
++10.9k
++11.0%
+Apprentice wand
+978.9k
+0
++7.0%
+Teacher wand
+2.7m
+0
+-3.0%
+Master wand
+6.1m
+- 64.8k
++13.0%
+Infinity top
+5.3m
+0
++20.0%
+Infinity hat
+4.6m
+0
++22.0%
+Infinity boots
+1.4m
++2,921
++16.0%
+Infinity gloves
+2.5m
++40.5k
++22.0%
+Infinity bottoms
+5.7m
+0
++9.0%
+Pink cape
+1,976
+0
++35.0%
+Triangle sandwich
+292
++4
++2.0%
+Sandstone (1kg)
+161
+0
+-13.0%
+Sandstone (2kg)
+83
+- 2
++2.0%
+Sandstone (5kg)
+48
+0
++9.0%
+Sandstone (10kg)
+1,864
+0
++4.0%
+Granite (500g)
+58
+- 2
+-25.0%
+Granite (2kg)
+30
+0
++7.0%
+Granite (5kg)
+536
+0
+-22.0%
+Unlit bug lantern
+386
+- 9
++4.0%
+Chilli potato
+377
+0
+-8.0%
+Egg potato
+642
+0
+-0.0%
+Mushroom potato
+899
+0
+-2.0%
+Tuna potato
+1,176
++49
++0.0%
+Chilli con carne
+19
+0
++5.0%
+Egg and tomato
+91
+0
++4.0%
+Mushroom & onion
+153
+0
+0.0%
+Tuna and corn
+733
+0
+-1.0%
+Minced meat
+254
+0
+0.0%
+Spicy sauce
+261
+0
+0.0%
+Chopped garlic
+330
+0
+-3.0%
+Uncooked egg
+5
+0
+0.0%
+Scrambled egg
+7
+0
+0.0%
+Sliced mushrooms
+78
+0
+0.0%
+Fried mushrooms
+125
+0
+0.0%
+Fried onions
+16
+0
+0.0%
+Chopped tuna
+183
+0
++3.0%
+Stripy pirate shirt
+995
+0
+-1.0%
+Pirate bandana
+220
+0
++5.0%
+Pirate boots
+194
+- 7
++6.0%
+Pirate leggings
+996
+0
+-12.0%
+Dragon 2h sword
+134.3k
+- 23
+-2.0%
+Insulated boots
+333
++2
++10.0%
+Pie recipe book
+48
+0
++23.0%
+Raw mud pie
+894
+0
+0.0%
+Mud pie
+410
+0
++5.0%
+Raw garden pie
+777
+0
+0.0%
+Garden pie
+76
++1
++2.0%
+Raw fish pie
+1,516
+- 3
+-0.0%
+Fish pie
+63
+0
++6.0%
+Raw admiral pie
+1,373
+- 66
+-7.0%
+Admiral pie
+251
+- 2
+-27.0%
+Raw wild pie
+3,173
+0
++0.0%
+Wild pie
+987
++26
+-32.0%
+Raw summer pie
+1,772
+0
+-14.0%
+Summer pie
+1,084
++8
+-15.0%
+Roast rabbit
+190
+0
+-4.0%
+Iron spit
+56
+0
+-15.0%
+Red boater
+2,333
+0
++14.0%
+Orange boater
+1,997
+0
+-6.0%
+Green boater
+5,025
+0
+-4.0%
+Blue boater
+4,241
+0
+-16.0%
+Black boater
+3,165
+0
++23.0%
+Red firelighter
+19
+0
+-40.0%
+Green firelighter
+37
+- 1
+-31.0%
+Blue firelighter
+49
+- 1
+-9.0%
+Black shield (h1)
+6,712
++202
++128.0%
+Adamant shield (h1)
+4,416
++162
++7.0%
+Rune shield (h1)
+84.6k
++2,598
++4.0%
+Black shield (h2)
+9,866
+0
++2.0%
+Adamant shield (h2)
+4,116
+0
++0.0%
+Rune shield (h2)
+44.3k
++741
++1.0%
+Black shield (h3)
+2,688
+0
++143.0%
+Adamant shield (h3)
+4,193
++20
++1.0%
+Rune shield (h3)
+41.3k
++822
+-2.0%
+Black shield (h4)
+2,728
+0
++122.0%
+Adamant shield (h4)
+4,137
+- 11
++0.0%
+Rune shield (h4)
+41.2k
++1,466
++3.0%
+Black shield (h5)
+2,216
+0
++88.0%
+Adamant shield (h5)
+4,190
++90
++1.0%
+Rune shield (h5)
+42.5k
++1,064
+-0.0%
+Studded body (g)
+83.1k
+- 1,135
++106.0%
+Studded body (t)
+19.3k
+- 504
++66.0%
+Studded chaps (g)
+152.9k
+- 4,502
++102.0%
+Studded chaps (t)
+39.9k
+- 543
++90.0%
+Green d'hide body (g)
+17.9k
++136
++166.0%
+Green d'hide body (t)
+6,112
+- 150
++19.0%
+Blue d'hide body (g)
+9,855
++370
++61.0%
+Blue d'hide body (t)
+5,451
++43
++1.0%
+Green d'hide chaps (g)
+185.1k
+- 2,398
++156.0%
+Green d'hide chaps (t)
+19.0k
+- 96
++135.0%
+Blue d'hide chaps (g)
+12.6k
++519
++89.0%
+Blue d'hide chaps (t)
+2,598
+- 67
+-2.0%
+Blue skirt (g)
+99.8k
+- 3,315
++22.0%
+Blue skirt (t)
+44.5k
++1,659
++100.0%
+Blue wizard robe (g)
+753.9k
+- 29.8k
++137.0%
+Blue wizard robe (t)
+122.6k
+- 2,483
++79.0%
+Blue wizard hat (g)
+637.7k
+- 29.8k
++142.0%
+Blue wizard hat (t)
+183.8k
+- 5,161
++105.0%
+Enchanted robe
+56.3k
+- 796
+-4.0%
+Enchanted top
+83.2k
+- 487
++4.0%
+Enchanted hat
+19.8k
++338
++32.0%
+Mole claw
+6,093
+- 107
++11.0%
+Mole skin
+4,783
+- 58
++6.0%
+Wooden spoon
+51
+0
++6.0%
+Egg whisk
+47
+0
+0.0%
+Spork
+289
+0
+0.0%
+Spatula
+1,663
+0
+0.0%
+Frying pan
+1,509
+0
+-2.0%
+Skewer
+2,820
+0
+0.0%
+Rolling pin
+18.8k
+0
+-4.0%
+Kitchen knife
+7,019
+0
++1.0%
+Meat tenderiser
+33.7k
+0
+-0.0%
+Cleaver
+20.7k
+0
+0.0%
+Cornflour
+168
+0
++22.0%
+Pot of cornflour
+1,234
+0
+-16.0%
+Cooked crab meat
+167
+0
++9.0%
+Raw jubbly
+741
+0
++4.0%
+Cooked jubbly
+1,219
+0
++14.0%
+Silver dust
+121
+0
++47.0%
+Guthix balance(4)
+299
+- 3
+-4.0%
+Guthix balance(3)
+169
+0
+-10.0%
+Guthix balance(2)
+422
+0
+0.0%
+Guthix balance(1)
+252
+0
++3.0%
+Gadderhammer
+1,609
+0
++1.0%
+Toy soldier
+2,542
+0
+-2.0%
+Toy soldier (wound)
+4,108
+0
+-4.0%
+Toy doll
+2,696
+0
+-1.0%
+Toy doll (wound)
+4,218
+0
+-4.0%
+Toy mouse
+1,169
+0
+-28.0%
+Toy mouse (wound)
+1,845
+0
+-7.0%
+Toy cat
+5,777
+0
++6.0%
+Bottle of wine
+335
+0
++0.0%
+Pure essence
+4
+0
+0.0%
+Tortoise shell
+1,037
+0
++2.0%
+Raw monkfish
+420
++6
++5.0%
+Monkfish
+480
+- 7
+-1.0%
+Varrock teleport
+706
+- 10
++15.0%
+Lumbridge teleport
+659
+- 28
+-11.0%
+Falador teleport
+684
+- 17
+-1.0%
+Camelot teleport
+588
+- 23
+-10.0%
+Ardougne teleport
+807
+- 22
++3.0%
+Watchtower teleport
+597
+- 11
++13.0%
+Teleport to house
+703
+- 37
++1.0%
+Bones to bananas
+662
+0
++2.0%
+Bones to peaches
+1,101
++32
++12.0%
+Enchant sapphire or opal
+219
+0
+0.0%
+Enchant emerald or jade
+303
+0
+0.0%
+Enchant ruby or topaz
+721
++7
++6.0%
+Enchant diamond
+460
+0
+0.0%
+Enchant dragonstone
+432
+0
+0.0%
+Enchant onyx
+693
+0
+-1.0%
+Bagged dead tree
+1,506
+0
+-0.0%
+Bagged nice tree
+2,976
+0
+-2.0%
+Bagged oak tree
+6,323
+0
+-0.0%
+Bagged willow tree
+12.5k
+0
+-3.0%
+Bagged maple tree
+16.6k
+0
+-1.0%
+Bagged yew tree
+22.4k
+0
+-1.0%
+Bagged magic tree
+52.2k
+0
+-0.0%
+Bagged plant 1
+1,783
+0
++0.0%
+Bagged plant 2
+6,038
+0
++0.0%
+Bagged plant 3
+12.8k
+0
++2.0%
+Thorny hedge
+5,223
+0
+0.0%
+Nice hedge
+10.8k
+0
+0.0%
+Small box hedge
+15.5k
+0
+0.0%
+Topiary hedge
+25.3k
+0
+-3.0%
+Fancy hedge
+26.7k
+0
+0.0%
+Tall fancy hedge
+50.6k
+0
+0.0%
+Tall box hedge
+107.3k
+0
++1.0%
+Bagged flower
+5,709
+0
+0.0%
+Bagged daffodils
+11.7k
+0
+0.0%
+Bagged bluebells
+17.7k
+0
+0.0%
+Bagged sunflower
+5,779
+0
+0.0%
+Bagged marigolds
+11.6k
+0
+0.0%
+Bagged roses
+17.2k
+0
+-0.0%
+Crude chair
+46
+0
++9.0%
+Wooden chair
+11
+0
+-8.0%
+Rocking chair
+10
+0
+0.0%
+Oak chair
+3
+0
+0.0%
+Oak armchair
+6
+0
+0.0%
+Teak armchair
+143
+0
++5.0%
+Mahogany armchair
+1,769
+0
+-9.0%
+Bookcase
+3
+0
++50.0%
+Oak bookcase
+2
+0
+0.0%
+Mahogany bookcase
+147
+0
+-5.0%
+Beer barrel
+13
+0
++18.0%
+Cider barrel
+5,018
+0
++3.0%
+Kitchen table
+6
+0
+-25.0%
+Oak kitchen table
+1
+0
+0.0%
+Teak kitchen table
+508
+0
+-5.0%
+Wood dining table
+8
+0
+-20.0%
+Oak dining table
+2
+0
+-33.0%
+Carved oak table
+4
+0
++33.0%
+Teak table
+38
+0
+-25.0%
+Carved teak table
+950
+0
+-4.0%
+Mahogany table
+158
+0
++7.0%
+Opulent table
+15.4k
+0
++4.0%
+Wooden bench
+27
+0
+-6.0%
+Oak bench
+99
+0
++4.0%
+Carved oak bench
+46
+0
++2.0%
+Teak dining bench
+1,340
+0
+-4.0%
+Carved teak bench
+1,347
+0
+-3.0%
+Mahogany bench
+493
+0
+-4.0%
+Gilded bench
+207.7k
+0
++3.0%
+Wooden bed
+94
+0
+-3.0%
+Oak bed
+208
+0
++10.0%
+Large oak bed
+102
+0
++7.0%
+Teak bed
+355
++13
++7.0%
+Large teak bed
+489
+0
++9.0%
+Four-poster bed
+7,096
++5
++0.0%
+Gilded four-poster
+26.2k
+0
++4.0%
+Oak clock
+236
+0
++4.0%
+Teak clock
+1,035
+0
+0.0%
+Gilded clock
+2,373
+0
++4.0%
+Shaving stand
+10
+0
+0.0%
+Oak shaving stand
+73
+0
+0.0%
+Oak dresser
+113
+0
+0.0%
+Teak dresser
+128
+0
+0.0%
+Fancy teak dresser
+236
+0
++4.0%
+Mahogany dresser
+1,851
+0
++1.0%
+Gilded dresser
+15.4k
+0
++4.0%
+Shoe box
+1
+0
+-50.0%
+Oak drawers
+16
+0
+0.0%
+Oak wardrobe
+20
+0
+0.0%
+Teak drawers
+80
+0
+0.0%
+Teak wardrobe
+124
+0
+0.0%
+Mahogany wardrobe
+1,339
+0
++4.0%
+Gilded wardrobe
+16.8k
+0
++4.0%
+Crystal ball
+206
+0
+0.0%
+Elemental sphere
+732
+0
+0.0%
+Crystal of power
+4,357
+0
+0.0%
+Oak plank
+468
+- 6
+-12.0%
+Teak plank
+977
+- 29
+-5.0%
+Mahogany plank
+2,071
+- 18
+-4.0%
+Gold leaf
+133.1k
+0
+-1.0%
+Marble block
+328.7k
+0
+-0.0%
+Magic stone
+978.3k
+0
++0.0%
+Bolt of cloth
+942
+- 18
++5.0%
+Clockwork
+1,155
+0
++8.0%
+Saw
+281
++4
+-11.0%
+Timber beam
+17
+- 1
++21.0%
+Bone dagger
+2,597
++53
+-17.0%
+Bone dagger (p)
+9,506
+0
+-4.0%
+Bone dagger (p+)
+7,957
+0
+-4.0%
+Bone dagger (p++)
+8,770
++202
++5.0%
+Dorgeshuun crossbow
+2,934
+- 21
++15.0%
+Bone bolts
+6
+0
+0.0%
+Black mask (10)
+1.4m
+- 74.0k
++48.0%
+Black mask
+1.4m
+- 73.8k
++47.0%
+Bandana eyepatch
+1,861
+0
+-1.0%
+Hat eyepatch
+25.1k
+0
++7.0%
+Security book
+22
+0
++4.0%
+Stronghold notes
+16
+0
++14.0%
+Ivory comb
+58
+0
+0.0%
+Golden scarab
+983
+0
++0.0%
+Stone scarab
+166
+0
+-2.0%
+Pottery scarab
+73
+0
+-1.0%
+Golden statuette
+1,250
+0
+-1.0%
+Pottery statuette
+88
+0
+-5.0%
+Stone statuette
+194
+0
+-1.0%
+Gold seal
+748
+0
+-0.0%
+Stone seal
+145
+0
+-3.0%
+Pharaoh's sceptre (3)
+5.8m
+- 29.5k
+-11.0%
+Pharaoh's sceptre
+5.9m
+0
+-10.0%
+Locust meat
+9
+0
++12.0%
+Astral rune
+195
+- 10
++14.0%
+Iron bolts
+33
+0
++10.0%
+Steel bolts
+54
+0
++12.0%
+Mithril bolts
+90
+0
++13.0%
+Adamant bolts
+206
++1
+-1.0%
+Runite bolts
+449
+- 14
++5.0%
+Silver bolts
+6
+0
+0.0%
+Bronze crossbow
+175
++7
++12.0%
+Iron crossbow
+34
+0
++30.0%
+Steel crossbow
+145
+- 3
+-30.0%
+Mith crossbow
+898
++42
++86.0%
+Adamant crossbow
+3,574
+- 189
++85.0%
+Rune crossbow
+9,793
+- 111
+-8.0%
+Jade bolt tips
+2
+0
+-50.0%
+Topaz bolt tips
+408
+0
++6.0%
+Sapphire bolt tips
+59
++1
++9.0%
+Emerald bolt tips
+66
++1
+-7.0%
+Ruby bolt tips
+106
++2
+-1.0%
+Diamond bolt tips
+187
+- 1
+-2.0%
+Dragonstone bolt tips
+223
+- 1
+-12.0%
+Onyx bolt tips
+8,193
+- 2
+-1.0%
+Opal bolts (e)
+5
+0
+-28.0%
+Pearl bolts (e)
+11
+0
+-8.0%
+Topaz bolts (e)
+29
+0
+-12.0%
+Sapphire bolts (e)
+52
+- 1
+-7.0%
+Emerald bolts (e)
+153
++1
+-15.0%
+Ruby bolts (e)
+196
+- 4
+-29.0%
+Diamond bolts (e)
+341
++1
+-0.0%
+Dragonstone bolts (e)
+542
++1
+-10.0%
+Onyx bolts (e)
+8,706
++6
+-0.0%
+Iron bolts (p)
+103
+0
++18.0%
+Steel bolts (p)
+118
+0
++11.0%
+Mithril bolts (p)
+248
+0
++2.0%
+Adamant bolts (p)
+414
+0
+-1.0%
+Runite bolts (p)
+655
++3
++11.0%
+Silver bolts (p)
+31
+0
+0.0%
+Iron bolts (p+)
+74
+0
++8.0%
+Steel bolts (p+)
+102
+0
++8.0%
+Mithril bolts (p+)
+601
+0
++0.0%
+Adamant bolts (p+)
+882
+0
++7.0%
+Runite bolts (p+)
+997
+- 6
+-0.0%
+Silver bolts (p+)
+69
+0
++4.0%
+Iron bolts (p++)
+225
++8
++11.0%
+Steel bolts (p++)
+277
+0
++12.0%
+Mithril bolts (p++)
+1,352
+0
++2.0%
+Adamant bolts (p++)
+1,757
+0
++3.0%
+Runite bolts (p++)
+1,882
++45
++5.0%
+Silver bolts (p++)
+74
+0
+0.0%
+Topaz bolts
+506
+0
++8.0%
+Sapphire bolts
+151
+- 3
++5.0%
+Emerald bolts
+164
+- 2
+-3.0%
+Ruby bolts
+321
++7
+-3.0%
+Diamond bolts
+406
++8
+-1.0%
+Dragonstone bolts
+705
+- 5
+-0.0%
+Onyx bolts
+8,695
+- 12
+-0.0%
+Bronze bolts (unf)
+14
+0
+0.0%
+Iron bolts (unf)
+28
+0
++3.0%
+Steel bolts (unf)
+50
+0
++4.0%
+Mithril bolts (unf)
+89
++1
++12.0%
+Adamant bolts(unf)
+211
+- 1
++0.0%
+Runite bolts (unf)
+511
+- 17
++6.0%
+Silver bolts (unf)
+9
+0
+0.0%
+Mith grapple tip
+464
+0
++7.0%
+Mith grapple
+1,219
++22
+-7.0%
+Bronze limbs
+32
+0
+0.0%
+Iron limbs
+151
+0
+-16.0%
+Steel limbs
+266
+0
+-10.0%
+Mithril limbs
+695
+0
++0.0%
+Adamantite limbs
+2,175
+0
++4.0%
+Runite limbs
+9,353
++4
+-0.0%
+Bolt mould
+15
+0
+-11.0%
+Sinew
+170
+0
++8.0%
+Crossbow string
+251
+0
++4.0%
+Wooden stock
+10
+0
++900.0%
+Oak stock
+1
+0
+0.0%
+Willow stock
+3
+0
++50.0%
+Teak stock
+116
+0
+-13.0%
+Maple stock
+6
+0
+0.0%
+Mahogany stock
+391
+0
++2.0%
+Yew stock
+204
+0
++4.0%
+Bronze crossbow (u)
+14
+0
+-6.0%
+Iron crossbow (u)
+38
+0
+0.0%
+Steel crossbow (u)
+91
+0
+-2.0%
+Mithril crossbow (u)
+548
+0
+-6.0%
+Adamant crossbow (u)
+2,300
+0
++29.0%
+Runite crossbow (u)
+9,500
++27
+-2.0%
+Grand seed pod
+107.6k
+0
+-24.0%
+Gnome scarf
+838.7k
+- 16.0k
++35.0%
+Gnome goggles
+15.5k
+0
+-0.0%
+Mint cake
+1,131
+0
++8.0%
+Tyras helm
+1,675
+0
+-0.0%
+Vyrewatch top
+1,988
+- 60
+-9.0%
+Vyrewatch legs
+2,021
++23
++12.0%
+Vyrewatch shoes
+2,905
++98
++10.0%
+Citizen top
+2,557
+0
+-2.0%
+Citizen trousers
+3,697
+0
+-7.0%
+Citizen shoes
+3,803
+0
+-4.0%
+Proselyte harness m
+26.2k
+0
+-0.0%
+Initiate harness m
+21.0k
+0
+-7.0%
+Proselyte harness f
+25.8k
+0
+-5.0%
+Proselyte sallet
+4,547
+- 4
+-0.0%
+Proselyte hauberk
+10.6k
+- 466
+-6.0%
+Proselyte cuisse
+9,669
+- 321
+-0.0%
+Proselyte tasset
+7,596
+0
+-1.0%
+Elemental helmet
+1,177
+- 55
+-7.0%
+Mind shield
+22.0k
+- 659
++18.0%
+Mind helmet
+1,559
+0
+-0.0%
+Desert goat horn
+394
++19
++62.0%
+Goat horn dust
+410
+0
++35.0%
+Combat potion(4)
+1,039
++6
++21.0%
+Combat potion(3)
+627
+0
++52.0%
+Combat potion(2)
+471
+0
++13.0%
+Combat potion(1)
+225
+0
+-10.0%
+Oak cape rack
+12
+0
++9.0%
+Teak cape rack
+37
+0
++2.0%
+Mahogany cape rack
+473
+0
+-1.0%
+Gilded cape rack
+2,633
+0
++4.0%
+Marble cape rack
+23.4k
+0
++9.0%
+Magic cape rack
+41.8k
+0
++13.0%
+Oak toy box
+11
+0
+0.0%
+Teak toy box
+25
+0
+0.0%
+Mahogany toy box
+2,347
+0
++1.0%
+Oak magic wardrobe
+12
+0
+0.0%
+Carved oak magic wardrobe
+12
+0
+0.0%
+Teak magic wardrobe
+75
+0
+0.0%
+Carved teak magic wardrobe
+59
+0
+0.0%
+Mahogany magic wardrobe
+930
+0
+-4.0%
+Gilded magic wardrobe
+1,348
+0
++4.0%
+Marble magic wardrobe
+18.6k
+0
++19.0%
+Oak armour case
+9
+0
+0.0%
+Teak armour case
+63
+0
+0.0%
+Mahogany armour case
+1,135
+0
++2.0%
+Oak treasure chest
+10
+0
+0.0%
+Teak treasure chest
+68
+0
++6.0%
+M. treasure chest
+754
+0
++3.0%
+Oak fancy dress box
+9
+0
+0.0%
+Teak fancy dress box
+63
+0
+0.0%
+Mahogany fancy dress box
+1,412
+0
+-5.0%
+Raw bird meat
+17
++1
++183.0%
+Roast bird meat
+13
+0
++8.0%
+Raw beast meat
+12
+0
++33.0%
+Roast beast meat
+16
+0
++6.0%
+Spicy tomato
+64
+0
++4.0%
+Spicy minced meat
+33
+0
++6.0%
+Hunter potion(4)
+4,878
+0
+-6.0%
+Hunter potion(3)
+3,535
+0
+-5.0%
+Hunter potion(2)
+5,524
+0
+-4.0%
+Hunter potion(1)
+2,837
+0
+-9.0%
+Bird snare
+8
+0
++14.0%
+Box trap
+49
+0
+0.0%
+Butterfly net
+4
+0
+0.0%
+Butterfly jar
+148
+0
++1.0%
+Black warlock
+1,738
+0
+-8.0%
+Snowy knight
+147
+0
++4.0%
+Sapphire glacialis
+615
+0
+-4.0%
+Ruby harvest
+149
+0
+-17.0%
+Magic box
+460
+0
++6.0%
+Teasing stick
+3
+0
+0.0%
+Rabbit snare
+2
+0
++100.0%
+Chinchompa
+1,088
++11
+-10.0%
+Red chinchompa
+1,748
+- 34
+-3.0%
+Kyatt legs
+2,041
+0
+-8.0%
+Kyatt top
+2,246
+0
++9.0%
+Kyatt hat
+3,358
+0
+-11.0%
+Larupia legs
+1,388
++23
+-5.0%
+Larupia top
+1,298
++28
+-5.0%
+Larupia hat
+2,590
+0
+-14.0%
+Graahk legs
+1,843
+0
+-11.0%
+Graahk top
+2,068
+0
+-13.0%
+Graahk headdress
+2,549
+- 72
+-10.0%
+Wood camo top
+7,110
+- 203
+-4.0%
+Wood camo legs
+8,428
+0
+-11.0%
+Jungle camo top
+2,536
+- 103
+-16.0%
+Jungle camo legs
+2,875
+0
+-11.0%
+Desert camo top
+8,455
+0
++1.0%
+Desert camo legs
+8,521
+0
+-1.0%
+Polar camo top
+3,971
+0
+-10.0%
+Polar camo legs
+3,627
+0
+-13.0%
+Spotted cape
+931
++8
+-0.0%
+Spottier cape
+4,130
++127
++31.0%
+Gloves of silence
+3,984
+- 144
++30.0%
+Spiky vambraces
+249
+0
+-5.0%
+Green spiky vambs
+1,870
+0
++16.0%
+Blue spiky vambs
+2,786
++106
++10.0%
+Red spiky vambs
+1,857
+- 3
+-2.0%
+Black spiky vambs
+4,500
+- 2
++13.0%
+Stripy feather
+8
+0
++100.0%
+Red feather
+10
+0
+-9.0%
+Blue feather
+17
+0
++30.0%
+Yellow feather
+48
+0
++4.0%
+Orange feather
+5
+0
++25.0%
+Tatty larupia fur
+770
+0
+-6.0%
+Larupia fur
+1,390
+0
+-4.0%
+Tatty graahk fur
+711
+0
++5.0%
+Graahk fur
+2,033
+0
+-12.0%
+Tatty kyatt fur
+878
+0
+-0.0%
+Kyatt fur
+2,605
+0
+-2.0%
+Kebbit spike
+513
+0
++17.0%
+Long kebbit spike
+1,858
+0
++32.0%
+Kebbit teeth
+2,802
+- 101
++6.0%
+Kebbit teeth dust
+3,198
+0
++1.0%
+Kebbit claws
+469
+0
++50.0%
+Dark kebbit fur
+976
+- 39
++30.0%
+Polar kebbit fur
+138
+0
++21.0%
+Feldip weasel fur
+120
+- 1
+-34.0%
+Common kebbit fur
+2,217
+0
+-12.0%
+Desert devil fur
+1,454
+0
++1.0%
+Spotted kebbit fur
+12
+0
+-14.0%
+Dashing kebbit fur
+1,403
++6
++22.0%
+Barb-tail harpoon
+17
+- 1
+-15.0%
+Strung rabbit foot
+2,296
++89
++14.0%
+Rabbit foot
+1,865
+0
+-5.0%
+Rainbow fish
+130
+0
+-5.0%
+Raw rainbow fish
+320
+0
++4.0%
+Guam tar
+1
+0
+0.0%
+Marrentill tar
+1
+0
+0.0%
+Tarromin tar
+1
+0
+0.0%
+Harralander tar
+8
+0
+-38.0%
+Orange salamander
+41
+0
++78.0%
+Red salamander
+66
+- 2
+-27.0%
+Black salamander
+182
++2
+-3.0%
+Swamp lizard
+99
++5
+-9.0%
+Noose wand
+2
+0
+0.0%
+Hunters' crossbow
+1,910
+- 48
++3.0%
+Kebbit bolts
+90
+- 1
++15.0%
+Long kebbit bolts
+772
+- 4
++12.0%
+Willow comp bow
+21.0k
++996
++194.0%
+Yew comp bow
+1,170
++12
+-6.0%
+Magic comp bow
+2,707
+- 44
+-10.0%
+Rune helm (h1)
+49.4k
+- 141
++1.0%
+Rune helm (h2)
+23.6k
+- 511
++1.0%
+Rune helm (h3)
+24.6k
+- 527
++3.0%
+Rune helm (h4)
+22.0k
+- 143
++1.0%
+Rune helm (h5)
+22.1k
++9
+-5.0%
+Adamant helm (h1)
+4,254
++16
++1.0%
+Adamant helm (h2)
+4,198
+- 68
++1.0%
+Adamant helm (h3)
+4,268
+0
++3.0%
+Adamant helm (h4)
+4,123
+- 146
+-1.0%
+Adamant helm (h5)
+4,335
+0
++2.0%
+Black helm (h1)
+6,634
++73
++15.0%
+Black helm (h2)
+5,424
+0
++8.0%
+Black helm (h3)
+4,815
+0
++12.0%
+Black helm (h4)
+5,320
+0
++16.0%
+Black helm (h5)
+5,965
+0
++16.0%
+Bob's red shirt
+17.3k
+0
+-33.0%
+Bob's blue shirt
+18.8k
+0
+-26.0%
+Bob's green shirt
+15.5k
+- 510
+-32.0%
+Bob's black shirt
+28.1k
+0
+-26.0%
+Bob's purple shirt
+16.0k
+- 354
+-30.0%
+Purple firelighter
+45
+- 1
+-15.0%
+White firelighter
+32
+0
+-37.0%
+3rd age range top
+31.6m
+- 189.3k
+-6.0%
+3rd age range legs
+14.6m
+0
++4.0%
+3rd age range coif
+6.8m
+- 30.4k
+-7.0%
+3rd age vambraces
+5.2m
+0
+-0.0%
+3rd age robe top
+65.1m
+- 1.8m
+-1.0%
+3rd age robe
+18.1m
+0
+-0.0%
+3rd age mage hat
+8.0m
+- 92.0k
++1.0%
+3rd age amulet
+11.3m
++65.5k
+-3.0%
+3rd age platelegs
+59.5m
+0
+-7.0%
+3rd age platebody
+59.6m
+0
++3.0%
+3rd age full helmet
+22.4m
+0
+-14.0%
+3rd age kiteshield
+25.0m
+0
+-11.0%
+Amulet of glory (t4)
+76.3k
++3,006
++40.0%
+Amulet of glory (t)
+80.2k
++2,340
++48.0%
+Strength amulet (t)
+51.9k
++980
++162.0%
+Amulet of magic (t)
+224.6k
++1,465
++170.0%
+Zamorak bracers
+43.4k
++403
++44.0%
+Zamorak d'hide
+452.6k
++1,372
++16.0%
+Zamorak chaps
+358.1k
++6,336
++25.0%
+Zamorak coif
+65.6k
++950
+-19.0%
+Guthix bracers
+11.3k
++334
++49.0%
+Guthix dragonhide
+198.5k
++572
++31.0%
+Guthix chaps
+111.6k
++73
++25.0%
+Guthix coif
+70.4k
+- 733
+-9.0%
+Saradomin bracers
+20.5k
++262
++0.0%
+Saradomin d'hide
+480.9k
++9,581
++24.0%
+Saradomin chaps
+393.9k
++12.8k
++37.0%
+Saradomin coif
+64.4k
+- 193
+-20.0%
+A powdered wig
+16.4k
+- 564
+-28.0%
+Flared trousers
+879.0k
+- 18.0k
+-3.0%
+Pantaloons
+4,990
+- 213
+-31.0%
+Sleeping cap
+17.1k
+- 594
++3.0%
+Black elegant shirt
+24.1k
+- 15
++1.0%
+Black elegant legs
+16.3k
++777
++174.0%
+Red elegant shirt
+103.3k
+0
++23.0%
+Red elegant legs
+52.3k
+0
++15.0%
+Blue elegant shirt
+95.2k
+0
++4.0%
+Blue elegant legs
+60.8k
++309
++39.0%
+Green elegant shirt
+108.4k
+0
++11.0%
+Green elegant legs
+63.5k
+0
++65.0%
+Purple elegant shirt
+2,763
+0
+-14.0%
+Purple elegant legs
+1,384
+0
+-11.0%
+White elegant blouse
+9,839
++339
++10.0%
+White elegant skirt
+2,579
+0
++27.0%
+Red elegant blouse
+8,180
++50
++15.0%
+Red elegant skirt
+3,340
+0
++12.0%
+Blue elegant blouse
+17.6k
+- 109
+-5.0%
+Blue elegant skirt
+2,795
+0
+-1.0%
+Green elegant blouse
+10.3k
+0
++27.0%
+Green elegant skirt
+1,631
+- 54
+-8.0%
+Purple elegant blouse
+1,176
+0
++4.0%
+Purple elegant skirt
+994
+0
+-3.0%
+Saradomin crozier
+8,787
+- 411
++55.0%
+Guthix crozier
+9,465
+- 309
++22.0%
+Zamorak crozier
+11.4k
+- 603
++31.0%
+Saradomin cloak
+146.1k
++630
++110.0%
+Guthix cloak
+40.6k
++322
++106.0%
+Zamorak cloak
+91.5k
++1,175
++127.0%
+Saradomin mitre
+24.6k
+- 92
+-21.0%
+Guthix mitre
+24.0k
++315
+-21.0%
+Zamorak mitre
+34.6k
++307
+-1.0%
+Saradomin robe top
+202.7k
+- 2,677
+-4.0%
+Zamorak robe top
+348.3k
+- 3,329
++8.0%
+Guthix robe top
+95.8k
+- 532
+-13.0%
+Saradomin robe legs
+117.9k
++228
+-12.0%
+Guthix robe legs
+94.8k
+- 4,562
++1.0%
+Zamorak robe legs
+132.6k
+- 4,283
+-21.0%
+Saradomin stole
+13.0k
++65
+-7.0%
+Guthix stole
+10.6k
++16
++38.0%
+Zamorak stole
+15.0k
+- 414
++43.0%
+Purple sweets
+1,943
+- 27
+-4.0%
+Polished buttons
+954
++1
+-5.0%
+Granite body
+122.0k
++3,225
++97.0%
+Granite helm
+114.2k
++5,439
++167.0%
+Arctic pyre logs
+2,525
+0
+-1.0%
+Arctic pine logs
+579
++20
++24.0%
+Split log
+786
++6
++10.0%
+Hair
+119
++2
++7.0%
+Raw yak meat
+55
+0
+-5.0%
+Yak-hide
+109
+0
++5.0%
+Cured yak-hide
+408
+0
++7.0%
+Yak-hide armour
+140
+- 4
++17.0%
+Fremennik shield
+1,935
++34
++6.0%
+Helm of neitiznot
+30.3k
+- 446
+-6.0%
+Wooden cat
+21
+0
++5.0%
+Sanfew serum(4)
+18.3k
+- 345
+-2.0%
+Sanfew serum(3)
+13.6k
+0
+-1.0%
+Sanfew serum(2)
+8,663
+0
+-0.0%
+Sanfew serum(1)
+4,416
++65
+-2.0%
+Nail beast nails
+4,756
+0
+-13.0%
+Slayer bell
+263
+0
++1.0%
+Frog-leather body
+1,670
++41
+-2.0%
+Frog-leather chaps
+1,169
++17
++47.0%
+Frog-leather boots
+765
++26
++16.0%
+Light orb
+149
+- 5
++6.0%
+Swamp weed
+117
+0
+-2.0%
+Cave goblin wire
+802
+0
+-26.0%
+Goblin book
+62
++3
+-46.0%
+Brine sabre
+669.7k
+- 14.9k
++146.0%
+Ancient mace
+4,932
++28
++66.0%
+Bracelet mould
+377
+- 8
+-0.0%
+Gold bracelet
+126
+- 2
+-30.0%
+Sapphire bracelet
+507
+0
+0.0%
+Bracelet of clay
+672
+0
++11.0%
+Emerald bracelet
+715
+- 16
+-5.0%
+Castle wars bracelet(3)
+828
++8
+-14.0%
+Ruby bracelet
+1,184
+0
+-0.0%
+Inoculation bracelet
+1,233
+0
+-3.0%
+Phoenix necklace
+2,281
++24
+-0.0%
+Diamond bracelet
+2,065
+- 7
+-0.0%
+Abyssal bracelet(5)
+2,271
++19
+-1.0%
+Skills necklace(4)
+12.9k
+- 564
++0.0%
+Skills necklace
+13.0k
+- 137
++4.0%
+Dragonstone bracelet
+12.2k
++136
++1.0%
+Combat bracelet(4)
+12.6k
+- 159
++0.0%
+Combat bracelet
+12.4k
++76
++0.0%
+Berserker necklace
+3.0m
+- 67.8k
+-2.0%
+Onyx bracelet
+3.1m
+0
++1.0%
+Regen bracelet
+3.1m
+- 24.7k
++1.0%
+Dwarven helmet
+50.0k
+0
++8.0%
+Shrunk ogleroot
+17
+0
++6.0%
+Dragon arrow
+1,097
++22
+-13.0%
+Dragon arrow(p)
+1,498
+0
++0.0%
+Dragon arrow(p+)
+1,878
+0
+-3.0%
+Dragon arrow(p++)
+2,682
++80
++12.0%
+Dragon dart
+3,184
+- 107
+-9.0%
+Dragon dart(p)
+4,045
+0
+-5.0%
+Dragon dart tip
+3,693
+- 145
++0.0%
+Dragon dart(p+)
+4,148
+0
+-0.0%
+Dragon dart(p++)
+4,853
++171
++15.0%
+Dark bow
+779.0k
+- 10.3k
++28.0%
+Dragon arrowtips
+1,252
+0
+-5.0%
+Baby impling jar
+1,705
+- 25
+-6.0%
+Young impling jar
+1,836
+- 12
++0.0%
+Gourmet impling jar
+2,746
+- 135
+-4.0%
+Earth impling jar
+1,703
+- 38
+-4.0%
+Essence impling jar
+2,316
++16
++2.0%
+Eclectic impling jar
+3,462
+- 72
+-2.0%
+Nature impling jar
+3,559
+- 49
+-1.0%
+Magpie impling jar
+16.7k
+- 236
+-8.0%
+Ninja impling jar
+28.7k
++148
+-9.0%
+Dragon impling jar
+331.7k
+- 601
+-5.0%
+Impling jar
+987
++19
++5.0%
+Cavalier mask
+137.9k
+0
++30.0%
+Dragonfire shield
+7.9m
+- 335.5k
++6.0%
+Draconic visage
+8.7m
+0
++16.0%
+Roe
+59
+0
++47.0%
+Caviar
+213
+0
++4.0%
+Leaping trout
+9
++1
++350.0%
+Leaping salmon
+14
++1
++100.0%
+Leaping sturgeon
+85
+0
+-9.0%
+Fish offcuts
+64
+0
+-8.0%
+Dragon full helm
+49.8m
+0
++14.0%
+Bronze hasta
+48
+0
+-7.0%
+Iron hasta
+96
+0
+-25.0%
+Steel hasta
+86
+0
+-22.0%
+Mithril hasta
+367
+0
++3.0%
+Adamant hasta
+1,015
+- 47
+-0.0%
+Rune hasta
+12.1k
++33
++0.0%
+Bronze hasta(p)
+5,062
+0
+0.0%
+Bronze hasta(p+)
+5,228
+0
+0.0%
+Bronze hasta(p++)
+5,406
+0
+0.0%
+Iron hasta(p)
+3,074
+0
+0.0%
+Iron hasta(p+)
+3,000
+0
+0.0%
+Iron hasta(p++)
+3,100
+0
+0.0%
+Steel hasta(p)
+9,471
+0
+0.0%
+Steel hasta(p+)
+9,818
+0
+0.0%
+Steel hasta(p++)
+9,621
+0
+-1.0%
+Mithril hasta(p)
+10.0k
+0
+0.0%
+Mithril hasta(p+)
+9,951
+0
+-0.0%
+Mithril hasta(p++)
+10.9k
+0
++3.0%
+Adamant hasta(p)
+4,963
+0
++2.0%
+Adamant hasta(p+)
+5,070
+0
+0.0%
+Adamant hasta(p++)
+8,240
+0
++9.0%
+Rune hasta(p)
+35.9k
+0
+-3.0%
+Rune hasta(p+)
+32.2k
+0
+-9.0%
+Rune hasta(p++)
+19.7k
+0
+-6.0%
+Attack mix(2)
+194
+0
+-3.0%
+Attack mix(1)
+199
+0
+0.0%
+Antipoison mix(2)
+1,159
+0
+-9.0%
+Antipoison mix(1)
+1,171
+0
+-4.0%
+Relicym's mix(2)
+494
+0
+0.0%
+Relicym's mix(1)
+250
+0
+0.0%
+Strength mix(1)
+1,930
+0
+-21.0%
+Strength mix(2)
+1,595
+0
+-21.0%
+Combat mix(2)
+559
+0
+0.0%
+Combat mix(1)
+294
+0
+0.0%
+Restore mix(2)
+3,827
+0
+-25.0%
+Restore mix(1)
+2,732
+- 136
+-21.0%
+Energy mix(2)
+619
+0
++4.0%
+Energy mix(1)
+245
+0
++1.0%
+Defence mix(2)
+41
+0
++2.0%
+Defence mix(1)
+18
+0
+0.0%
+Agility mix(2)
+1,443
+0
+-0.0%
+Agility mix(1)
+772
+0
+0.0%
+Prayer mix(2)
+5,514
+0
++4.0%
+Prayer mix(1)
+1,711
+0
++8.0%
+Superattack mix(2)
+819
+0
++4.0%
+Superattack mix(1)
+1,964
+0
+-4.0%
+Anti-poison supermix(2)
+1,637
+0
+-9.0%
+Anti-poison supermix(1)
+1,910
+0
+-10.0%
+Fishing mix(2)
+106
+0
+0.0%
+Fishing mix(1)
+55
+0
+0.0%
+Super energy mix(2)
+3,234
++67
++13.0%
+Super energy mix(1)
+808
++31
++3.0%
+Super str. mix(2)
+1,245
+0
+-5.0%
+Super str. mix(1)
+1,652
+0
+-4.0%
+Magic essence mix(2)
+809
+0
++3.0%
+Magic essence mix(1)
+274
+0
++2.0%
+Super restore mix(2)
+6,693
+0
+-2.0%
+Super restore mix(1)
+4,051
+0
++0.0%
+Super def. mix(2)
+812
+0
+-3.0%
+Super def. mix(1)
+414
+0
+-0.0%
+Antidote+ mix(2)
+3,252
+0
+-4.0%
+Antidote+ mix(1)
+2,007
+0
++3.0%
+Antifire mix(2)
+924
+0
++3.0%
+Antifire mix(1)
+431
+0
++1.0%
+Ranging mix(2)
+1,664
+0
+-18.0%
+Ranging mix(1)
+400
+0
++4.0%
+Magic mix(2)
+2,302
+0
+-5.0%
+Magic mix(1)
+1,659
+0
+0.0%
+Hunting mix(2)
+244
+0
++4.0%
+Hunting mix(1)
+104
+0
+0.0%
+Zamorak mix(2)
+508
+0
+0.0%
+Zamorak mix(1)
+250
+0
+0.0%
+Armadyl crossbow
+29.9m
+- 701.1k
+-5.0%
+Steam battlestaff
+715.2k
++12.3k
++13.0%
+Mystic steam staff
+811.8k
++15.6k
++16.0%
+Staff of the dead
+5.4m
+- 279.1k
+-13.0%
+Godsword blade
+480.0k
+0
+-0.0%
+Armadyl godsword
+17.0m
+- 241.8k
+-7.0%
+Bandos godsword
+9.8m
+- 120.1k
++0.0%
+Saradomin godsword
+40.2m
+- 1.8m
+-9.0%
+Zamorak godsword
+4.9m
+- 88.1k
+-1.0%
+Armadyl hilt
+17.6m
+0
+-0.0%
+Bandos hilt
+9.4m
++229.7k
++3.0%
+Saradomin hilt
+43.6m
+0
++2.0%
+Zamorak hilt
+4.4m
+0
++3.0%
+Godsword shard 1
+153.5k
+0
+-1.0%
+Godsword shard 2
+152.5k
+0
+-1.0%
+Godsword shard 3
+153.9k
+0
+-1.0%
+Zamorakian spear
+11.7m
+- 39.2k
++2.0%
+Armadyl helmet
+4.4m
+- 115.9k
+-1.0%
+Armadyl chestplate
+36.0m
+- 1.6m
+-14.0%
+Armadyl chainskirt
+29.6m
+- 1.5m
+-15.0%
+Bandos chestplate
+18.9m
+- 453.2k
+-1.0%
+Bandos tassets
+30.6m
+- 520.7k
+-1.0%
+Bandos boots
+238.0k
+- 9,411
++15.0%
+Saradomin sword
+1.4m
+- 24.5k
++13.0%
+Dragon boots
+408.8k
+- 8,115
++16.0%
+Broad arrowheads
+53
+0
+-3.0%
+Broad bolts
+61
+0
++1.0%
+Unfinished broad bolts
+57
+0
+0.0%
+Zamorakian hasta
+11.9m
+- 24.6k
++1.0%
+Leaf-bladed sword
+40.4k
+- 1
+-0.0%
+Trident of the seas (full)
+1.1m
+- 32.6k
++0.0%
+Uncharged trident
+70.4k
+- 2,875
++22.0%
+Dragon pickaxe
+5.1m
++11.7k
++0.0%
+Malediction ward
+2.9m
+- 17.7k
+-0.0%
+Odium ward
+3.1m
+- 35
++9.0%
+Odium shard 1
+325.7k
+0
+-16.0%
+Odium shard 2
+1.2m
+0
++19.0%
+Odium shard 3
+909.7k
+0
+-17.0%
+Malediction shard 1
+325.5k
+0
++12.0%
+Malediction shard 2
+667.5k
+0
++14.0%
+Malediction shard 3
+1.3m
+- 63.1k
+-14.0%
+Raw dark crab
+1,147
+0
+-1.0%
+Dark crab
+1,222
++17
+-18.0%
+Dark fishing bait
+3
+0
+0.0%
+Lava dragon bones
+6,743
+- 116
++24.0%
+Extended antifire(4)
+624
++24
++12.0%
+Extended antifire(3)
+486
++22
++21.0%
+Extended antifire(2)
+380
++16
++12.0%
+Extended antifire(1)
+191
++9
++4.0%
+Black chinchompa
+2,983
++3
+-4.0%
+Extended antifire mix(2)
+1,023
+0
+-1.0%
+Extended antifire mix(1)
+472
+0
++4.0%
+Amulet of glory (t6)
+101.8k
++2,590
++58.0%
+Skills necklace(6)
+14.4k
+- 759
++4.0%
+Combat bracelet(6)
+12.3k
+- 44
+-2.0%
+Amulet of glory(6)
+14.9k
+- 101
++10.0%
+Ring of wealth (5)
+14.1k
++266
++5.0%
+Fedora
+6,982
+0
+-11.0%
+Lava scale
+2,048
+- 54
++1.0%
+Lava scale shard
+323
+0
++7.0%
+Smoke battlestaff
+3.7m
+- 14.5k
++32.0%
+Mystic smoke staff
+3.8m
+- 68.8k
++30.0%
+Occult necklace
+675.2k
+- 5,746
++9.0%
+Kraken tentacle
+457.4k
+- 23.1k
+-19.0%
+Jar of dirt
+6,130
+0
+-3.0%
+Ancient robe top
+119.0k
+- 3,230
+-25.0%
+Ancient robe legs
+105.0k
+- 2,573
+-7.0%
+Ancient cloak
+35.6k
+- 1,306
++58.0%
+Ancient crozier
+11.0k
+- 259
++19.0%
+Ancient stole
+11.1k
+- 9
++69.0%
+Ancient mitre
+24.9k
+- 364
+-27.0%
+Bronze platebody (g)
+297.4k
+- 3,786
++105.0%
+Bronze platelegs (g)
+114.6k
+0
++158.0%
+Bronze plateskirt (g)
+4,049
+0
++49.0%
+Bronze full helm (g)
+93.1k
+0
++90.0%
+Bronze kiteshield (g)
+131.9k
+- 2,530
++85.0%
+Bronze platebody (t)
+27.6k
+0
++19.0%
+Bronze platelegs (t)
+8,120
+0
++49.0%
+Bronze plateskirt (t)
+1,248
+0
++24.0%
+Bronze full helm (t)
+20.5k
+0
++19.0%
+Bronze kiteshield (t)
+12.8k
+0
++56.0%
+Iron platebody (t)
+305.4k
+- 6,005
++54.0%
+Iron platelegs (t)
+62.1k
+- 642
++43.0%
+Iron plateskirt (t)
+1,703
+0
+-6.0%
+Iron full helm (t)
+243.7k
+- 447
++60.0%
+Iron kiteshield (t)
+143.8k
+- 7,337
++40.0%
+Iron platebody (g)
+1.4m
+- 9,987
++112.0%
+Iron platelegs (g)
+69.0k
++72
++20.0%
+Iron plateskirt (g)
+6,325
+0
++11.0%
+Iron full helm (g)
+501.6k
+- 10.6k
++93.0%
+Iron kiteshield (g)
+658.3k
+- 12.5k
++115.0%
+Beanie
+6,560
+0
++1.0%
+Red beret
+24.1k
+0
++47.0%
+Imp mask
+12.9k
+- 301
+-33.0%
+Goblin mask
+18.2k
+0
+-19.0%
+Armadyl robe top
+83.9k
++18
+-9.0%
+Armadyl robe legs
+78.2k
+- 2,619
+-8.0%
+Armadyl stole
+11.3k
++20
++75.0%
+Armadyl mitre
+22.5k
+- 692
+-32.0%
+Armadyl cloak
+36.8k
+- 1,831
++67.0%
+Armadyl crozier
+8,257
+- 428
++38.0%
+Bandos robe top
+80.9k
+- 2,274
+-6.0%
+Bandos robe legs
+83.0k
+- 1,638
+-13.0%
+Bandos stole
+11.4k
+- 16
++79.0%
+Bandos mitre
+24.6k
++450
+-22.0%
+Bandos cloak
+46.6k
++885
++42.0%
+Bandos crozier
+8,322
+- 62
++55.0%
+Mithril platebody (g)
+35.9k
++1,710
++203.0%
+Mithril platelegs (g)
+22.1k
+- 560
++239.0%
+Mithril kiteshield (g)
+38.6k
++1,826
++197.0%
+Mithril full helm (g)
+25.2k
++463
++145.0%
+Mithril plateskirt (g)
+2,804
++17
++33.0%
+Mithril platebody (t)
+18.0k
++813
++178.0%
+Mithril platelegs (t)
+7,241
+- 47
++80.0%
+Mithril kiteshield (t)
+17.1k
++488
++208.0%
+Mithril full helm (t)
+7,630
++70
++102.0%
+Mithril plateskirt (t)
+1,694
++6
++5.0%
+Black pickaxe
+13.5k
+- 347
++89.0%
+White headband
+4,967
+- 92
++45.0%
+Blue headband
+4,061
++37
++2.0%
+Gold headband
+1,620
++51
++6.0%
+Pink headband
+4,390
+- 24
++13.0%
+Green headband
+2,420
++26
++25.0%
+Pink boater
+12.4k
+0
+-22.0%
+Purple boater
+1,563
+0
+-29.0%
+White boater
+2,466
+0
+-6.0%
+Pink elegant shirt
+2,922
+0
+-6.0%
+Pink elegant legs
+1,547
+0
++28.0%
+Crier hat
+5,588
++245
+-4.0%
+White cavalier
+23.7k
++370
++54.0%
+Red cavalier
+7,236
++119
++61.0%
+Navy cavalier
+2,616
+- 40
++10.0%
+Red d'hide body (g)
+10.8k
+- 76
++57.0%
+Red d'hide chaps (g)
+32.0k
++1,163
++85.0%
+Red d'hide body (t)
+6,979
++222
++10.0%
+Red d'hide chaps (t)
+3,195
++97
+-19.0%
+Briefcase
+357.7k
++5,266
++17.0%
+Sagacious spectacles
+3.3m
++142.8k
+-9.0%
+Pink elegant blouse
+3,615
+0
++58.0%
+Pink elegant skirt
+1,720
+0
+-9.0%
+Gold elegant blouse
+1,699
+0
++54.0%
+Gold elegant skirt
+971
+- 7
++4.0%
+Gold elegant shirt
+2,847
+0
+-11.0%
+Gold elegant legs
+2,725
+0
+-2.0%
+Musketeer hat
+447.2k
++15.3k
++52.0%
+Monocle
+12.8k
+0
++12.0%
+Big pirate hat
+142.6k
+0
+-15.0%
+Katana
+366.5k
++2,913
++82.0%
+Leprechaun hat
+8,433
++326
++26.0%
+Cat mask
+12.0k
+- 170
++18.0%
+Bronze dragon mask
+10.6k
+0
++0.0%
+Iron dragon mask
+9,384
+0
++12.0%
+Steel dragon mask
+12.8k
++515
++57.0%
+Mithril dragon mask
+14.2k
+0
++47.0%
+Lava dragon mask
+2.6m
+0
++24.0%
+Dragon cane
+45.5k
+- 104
++34.0%
+Black cane
+16.9k
+0
++13.0%
+Adamant cane
+1,462
+0
++28.0%
+Rune cane
+8,849
++139
++2.0%
+Black d'hide body (g)
+40.7k
+- 1,201
++20.0%
+Black d'hide chaps (g)
+1.6m
++72.1k
++48.0%
+Black d'hide body (t)
+15.3k
+0
++17.0%
+Black d'hide chaps (t)
+206.1k
++1,619
++59.0%
+Gilded scimitar
+18.5m
+- 901.5k
++39.0%
+Gilded boots
+7.5m
+- 373.7k
++30.0%
+Royal gown top
+91.1k
++2,326
++39.0%
+Royal gown bottom
+22.4k
+0
++10.0%
+Royal crown
+161.9k
++7,708
++72.0%
+Partyhat & specs
+4.0m
+- 73.7k
++18.0%
+Nardah teleport
+4,310
+- 40
++0.0%
+Digsite teleport
+13.8k
+- 330
++18.0%
+Feldip hills teleport
+1,202
+- 45
+-9.0%
+Lunar isle teleport
+2,890
+- 36
+-8.0%
+Mort'ton teleport
+7,376
++119
++7.0%
+Pest control teleport
+486
++21
++3.0%
+Piscatoris teleport
+7,238
+- 227
+-0.0%
+Tai bwo wannai teleport
+8,654
+- 84
+-19.0%
+Elf camp teleport
+3,415
++114
+-7.0%
+Mos le'harmless teleport
+493
++9
+-3.0%
+Pirate hat & patch
+210.6k
+0
++9.0%
+3rd age wand
+115.3m
+0
+-4.0%
+3rd age bow
+345.3m
+0
+-3.0%
+3rd age longsword
+840.9m
+0
+-4.0%
+Penguin mask
+5,113
+- 200
+-43.0%
+Afro
+81.1k
++3,348
+-15.0%
+Top hat
+185.6k
+0
++27.0%
+Top hat & monocle
+226.6k
+0
++11.0%
+3rd age cloak
+309.2m
+0
+-9.0%
+Royal sceptre
+39.7k
+0
+-0.0%
+Musketeer tabard
+40.9k
+0
++4.0%
+Musketeer pants
+34.7k
+0
++50.0%
+Black skirt (g)
+88.7k
++2,192
++99.0%
+Black skirt (t)
+68.2k
+- 2,159
++113.0%
+Black wizard robe (g)
+1.2m
+- 31.6k
++162.0%
+Black wizard robe (t)
+524.6k
++2,333
++169.0%
+Black wizard hat (g)
+956.8k
+- 30.7k
++135.0%
+Black wizard hat (t)
+477.3k
+- 6,462
++130.0%
+Ancient platebody
+112.2k
++5,340
++166.0%
+Ancient platelegs
+114.3k
++3,923
++151.0%
+Ancient plateskirt
+39.0k
+0
++0.0%
+Ancient full helm
+78.4k
++1,914
++79.0%
+Ancient kiteshield
+87.6k
+- 975
++57.0%
+Armadyl platebody
+92.1k
++4,385
++131.0%
+Armadyl platelegs
+66.5k
++1,869
++65.0%
+Armadyl plateskirt
+38.6k
+0
+-0.0%
+Armadyl full helm
+38.3k
++458
++60.0%
+Armadyl kiteshield
+48.4k
++622
++29.0%
+Bandos platebody
+91.2k
++4,284
++121.0%
+Bandos platelegs
+67.9k
+- 2,767
++65.0%
+Bandos plateskirt
+38.8k
+0
+-0.0%
+Bandos full helm
+35.4k
++479
++36.0%
+Bandos kiteshield
+81.6k
++2,816
++129.0%
+Ancient bracers
+18.2k
+- 277
++26.0%
+Ancient d'hide
+198.7k
+- 2,260
++21.0%
+Ancient chaps
+121.7k
++466
++32.0%
+Ancient coif
+65.9k
++1,142
+-21.0%
+Bandos bracers
+19.4k
++57
++7.0%
+Bandos d'hide
+173.5k
++143
++16.0%
+Bandos chaps
+106.4k
+- 747
++15.0%
+Bandos coif
+61.3k
++802
+-20.0%
+Armadyl bracers
+62.5k
+- 541
+-13.0%
+Armadyl d'hide
+423.1k
++8,928
++17.0%
+Armadyl chaps
+367.4k
++10.8k
++38.0%
+Armadyl coif
+80.1k
+- 488
+-18.0%
+Explorer backpack
+81.0k
++507
++85.0%
+Pith helmet
+3,356
+0
+-15.0%
+Green dragon mask
+11.9k
++367
++21.0%
+Blue dragon mask
+8,141
+- 7
++6.0%
+Red dragon mask
+13.4k
+- 116
++29.0%
+Black dragon mask
+33.2k
++167
++39.0%
+Fury ornament kit
+1.9m
+- 41.5k
++18.0%
+Dark infinity colour kit
+86.5k
+- 611
+-3.0%
+Light infinity colour kit
+21.6k
+0
++56.0%
+Dragon sq shield ornament kit
+21.7k
+0
++91.0%
+Dragon chainbody ornament kit
+83.1k
+- 136
++145.0%
+Dragon legs/skirt ornament kit
+168.5k
++8,023
++87.0%
+Dragon full helm ornament kit
+25.6k
+0
++70.0%
+Deerstalker
+21.3k
+0
+-8.0%
+Rangers' tunic
+12.5m
+- 476.5k
++33.0%
+Holy sandals
+892.1k
+- 21.4k
++39.0%
+Ring of the gods
+13.1m
+- 64.3k
+-2.0%
+Tyrannical ring
+1.8m
+0
+-14.0%
+Treasonous ring
+830.3k
+0
++12.0%
+Bandos page 1
+5,397
++97
++20.0%
+Bandos page 2
+4,271
+- 98
++11.0%
+Bandos page 3
+3,596
++16
++20.0%
+Bandos page 4
+3,308
++31
++25.0%
+Armadyl page 1
+311.6k
+- 5,345
++39.0%
+Armadyl page 2
+360.9k
+- 506
++25.0%
+Armadyl page 3
+328.6k
+- 5,125
++39.0%
+Armadyl page 4
+499.7k
+- 13.9k
++20.0%
+Ancient page 1
+182.6k
+- 1,764
++2.0%
+Ancient page 2
+130.8k
+- 1,931
++4.0%
+Ancient page 3
+202.6k
+- 3,826
++0.0%
+Ancient page 4
+162.5k
+- 315
++4.0%
+Stamina potion(4)
+6,784
+- 2
+-10.0%
+Stamina potion(3)
+5,023
+- 9
+-12.0%
+Stamina potion(2)
+3,401
+- 47
+-8.0%
+Stamina potion(1)
+1,775
++39
+-2.0%
+Stamina mix(2)
+4,673
+0
++10.0%
+Stamina mix(1)
+1,875
+0
++8.0%
+Amylase crystal
+1,247
++48
+-14.0%
+Lumberyard teleport
+10.6k
++187
+-15.0%
+Super combat potion(4)
+14.3k
+- 145
+-10.0%
+Super combat potion(3)
+10.9k
+- 95
+-9.0%
+Super combat potion(2)
+7,293
+- 55
+-7.0%
+Super combat potion(1)
+3,702
++31
+-7.0%
+Blue dark bow paint
+130.6k
+0
+-1.0%
+Green dark bow paint
+133.1k
+0
+-2.0%
+Yellow dark bow paint
+131.6k
++436
+-6.0%
+White dark bow paint
+137.8k
+0
++5.0%
+Frozen whip mix
+107.8k
+- 3,207
+-9.0%
+Volcanic whip mix
+111.3k
+- 1,211
+-4.0%
+Annakarl teleport
+2,058
+- 25
+-4.0%
+Carrallangar teleport
+2,052
+- 1
+-8.0%
+Dareeyak teleport
+2,393
+0
+-1.0%
+Ghorrock teleport
+1,999
+- 6
+-11.0%
+Kharyrll teleport
+1,955
+- 51
+-12.0%
+Lassar teleport
+2,605
+0
++7.0%
+Paddewwa teleport
+2,473
+0
+-0.0%
+Senntisten teleport
+2,471
+0
++13.0%
+Ring of wealth scroll
+13.5k
+- 47
++17.0%
+Magic shortbow scroll
+22.3k
+- 650
+-12.0%
+Clue box
+23.8k
+- 691
+-9.0%
+Steam staff upgrade kit
+64.2k
+0
+-7.0%
+Dragon pickaxe upgrade kit
+70.1k
+0
+-2.0%
+Ward upgrade kit
+84.1k
+0
+-6.0%
+Saradomin's tear
+4.8m
+0
+-7.0%
+Elysian spirit shield
+489.7m
++16.8m
+-7.0%
+Elysian sigil
+641.2m
+0
+0.0%
+Spectral spirit shield
+52.3m
+- 2.1m
+-4.0%
+Spectral sigil
+54.3m
+0
++2.0%
+Arcane spirit shield
+116.9m
+- 1.7m
+-11.0%
+Arcane sigil
+129.7m
+- 1.1m
++2.0%
+Spirit shield
+152.2k
+- 6,158
+-14.0%
+Blessed spirit shield
+1.1m
++26.8k
++4.0%
+Holy elixir
+829.5k
+0
++2.0%
+Bounty teleport scroll
+1.9m
+0
+-9.0%
+Granite clamp
+66.7k
+0
+-1.0%
+Amulet of the damned (full)
+161.1k
+- 2,407
++29.0%
+Dwarf cannon set
+754.4k
+- 592
+-0.0%
+Green dragonhide set
+8,013
++58
++0.0%
+Blue dragonhide set
+9,072
+- 415
+-11.0%
+Red dragonhide set
+13.3k
++211
++6.0%
+Black dragonhide set
+16.8k
++76
+-0.0%
+Guthan's armour set
+4.8m
+- 29.4k
++32.0%
+Verac's armour set
+1.7m
+- 11.4k
++8.0%
+Dharok's armour set
+4.4m
+- 1,544
++31.0%
+Torag's armour set
+952.3k
+0
++12.0%
+Ahrim's armour set
+3.9m
+- 43.1k
+-9.0%
+Karil's armour set
+2.2m
++34.0k
++3.0%
+Jar of sand
+826.2k
+0
++5.0%
+Uncharged toxic trident
+3.8m
++47.5k
+-16.0%
+Toxic staff (uncharged)
+9.0m
+- 306.8k
+-16.0%
+Anti-venom(4)
+3,250
+- 157
+-17.0%
+Anti-venom(3)
+2,551
+0
+-13.0%
+Anti-venom(2)
+2,013
+- 13
+-6.0%
+Anti-venom(1)
+1,015
+0
+-9.0%
+Anti-venom+(4)
+14.5k
+- 354
+-11.0%
+Anti-venom+(3)
+11.6k
+- 286
+-6.0%
+Anti-venom+(2)
+7,329
+0
++0.0%
+Anti-venom+(1)
+3,626
+0
+-3.0%
+Tanzanite fang
+4.8m
+- 31.9k
++6.0%
+Toxic blowpipe (empty)
+4.8m
+- 25.2k
++6.0%
+Serpentine visage
+3.6m
+- 806
+-17.0%
+Serpentine helm (uncharged)
+3.7m
++22.6k
+-17.0%
+Magic fang
+3.7m
++17.8k
+-17.0%
+Zulrah's scales
+183
+0
+-17.0%
+Jar of swamp
+17.2k
+0
+-27.0%
+Zul-andra teleport
+27.5k
+- 1,448
++55.0%
+Bronze set (lg)
+159
+- 3
+-63.0%
+Bronze set (sk)
+213
+- 9
+-44.0%
+Bronze trimmed set (lg)
+86.8k
+0
++31.0%
+Bronze trimmed set (sk)
+61.1k
+0
++0.0%
+Bronze gold-trimmed set (lg)
+680.8k
+0
++109.0%
+Bronze gold-trimmed set (sk)
+363.7k
+0
++22.0%
+Iron set (lg)
+317
+- 12
+-53.0%
+Iron set (sk)
+366
++6
+-46.0%
+Iron trimmed set (lg)
+842.1k
+0
++70.0%
+Iron trimmed set (sk)
+506.0k
+0
++14.0%
+Iron gold-trimmed set (lg)
+2.7m
+- 41.7k
++111.0%
+Iron gold-trimmed set (sk)
+1.5m
+0
++20.0%
+Steel set (lg)
+1,615
++1
+-20.0%
+Steel set (sk)
+1,849
+- 28
+-26.0%
+Black set (lg)
+11.0k
+- 265
++21.0%
+Black set (sk)
+13.3k
+- 556
++18.0%
+Black trimmed set (lg)
+344.2k
+0
++94.0%
+Black trimmed set (sk)
+168.3k
+0
++23.0%
+Black gold-trimmed set (lg)
+1.9m
+- 2,948
++174.0%
+Black gold-trimmed set (sk)
+769.8k
+0
++39.0%
+Mithril set (lg)
+6,248
++45
+-5.0%
+Mithril set (sk)
+5,974
++147
+-21.0%
+Mithril trimmed set (lg)
+63.3k
+- 265
++200.0%
+Mithril trimmed set (sk)
+30.1k
++1,049
++45.0%
+Mithril gold-trimmed set (lg)
+153.6k
++800
++187.0%
+Mithril gold-trimmed set (sk)
+72.2k
+0
++69.0%
+Adamant set (lg)
+18.3k
++71
+-0.0%
+Adamant set (sk)
+19.8k
++24
+-4.0%
+Adamant trimmed set (lg)
+78.1k
++1,213
++160.0%
+Adamant trimmed set (sk)
+45.4k
+0
++41.0%
+Adamant gold-trimmed set (lg)
+306.3k
++2,853
++123.0%
+Adamant gold-trimmed set (sk)
+183.5k
+0
++46.0%
+Rune armour set (lg)
+129.7k
+- 186
+-0.0%
+Rune armour set (sk)
+130.1k
++235
++2.0%
+Rune trimmed set (lg)
+391.5k
++6,668
++134.0%
+Rune trimmed set (sk)
+222.5k
+0
++23.0%
+Rune gold-trimmed set (lg)
+1.2m
+- 13.3k
++187.0%
+Rune gold-trimmed set (sk)
+567.5k
++20.4k
++49.0%
+Gilded armour set (lg)
+14.7m
+- 773.9k
++67.0%
+Gilded armour set (sk)
+5.9m
+0
++35.0%
+Saradomin armour set (lg)
+891.6k
++1,938
++197.0%
+Saradomin armour set (sk)
+500.7k
+0
++63.0%
+Zamorak armour set (lg)
+1.3m
++34.7k
++202.0%
+Zamorak armour set (sk)
+653.9k
+0
++47.0%
+Guthix armour set (lg)
+476.2k
++5,512
++190.0%
+Guthix armour set (sk)
+245.7k
++8,891
++41.0%
+Armadyl rune armour set (lg)
+325.9k
++440
++111.0%
+Armadyl rune armour set (sk)
+234.7k
++8,714
++44.0%
+Bandos rune armour set (lg)
+335.4k
+- 4,592
++121.0%
+Bandos rune armour set (sk)
+221.4k
++8,700
++31.0%
+Ancient rune armour set (lg)
+455.9k
++2,168
++120.0%
+Ancient rune armour set (sk)
+304.1k
+0
++42.0%
+Combat potion set
+1,126
+0
++4.0%
+Super potion set
+3,637
+0
+-2.0%
+Holy book page set
+30.7k
+0
++17.0%
+Unholy book page set
+2.3m
+- 30.7k
++46.0%
+Book of balance page set
+36.1k
++1,358
++4.0%
+Book of war page set
+30.2k
+0
++19.0%
+Book of law page set
+1.6m
+- 43.4k
++26.0%
+Book of darkness page set
+726.3k
+- 17.8k
++1.0%
+Zamorak dragonhide set
+962.2k
++29.5k
++13.0%
+Saradomin dragonhide set
+973.3k
++35.6k
++19.0%
+Guthix dragonhide set
+412.0k
+- 889
++16.0%
+Bandos dragonhide set
+398.9k
+0
++7.0%
+Armadyl dragonhide set
+974.6k
++16.6k
++14.0%
+Ancient dragonhide set
+437.9k
++11.1k
++13.0%
+Partyhat set
+239.1k
+- 9,200
++30.0%
+Halloween mask set
+46.7k
+0
+-13.0%
+Old school bond
+3.0m
+- 112.0k
+-27.0%
+Eternal crystal
+3.1m
+0
+-15.0%
+Pegasian crystal
+120.1k
+0
+-19.0%
+Primordial crystal
+25.9m
+0
+-8.0%
+Smouldering stone
+1.3m
+- 26.8k
+-6.0%
+Eternal boots
+4.4m
+- 23.8k
+-8.0%
+Pegasian boots
+33.1m
+- 1.4m
+-9.0%
+Primordial boots
+24.9m
+- 1.0m
+-13.0%
+Jar of souls
+99.5k
+0
++18.0%
+Saradomin's light
+78.7k
+0
++8.0%
+Abyssal bludgeon
+27.3m
+- 1.0m
+-10.0%
+Abyssal dagger
+8.8m
+- 54.0k
++16.0%
+Abyssal dagger (p)
+8.6m
+0
++7.0%
+Abyssal dagger (p+)
+8.7m
+0
++7.0%
+Abyssal dagger (p++)
+8.8m
+- 64.6k
++15.0%
+Jar of miasma
+65.7k
++3,130
++21.0%
+Xerician fabric
+2,394
+- 87
+-18.0%
+Xerician hat
+7,182
+- 129
+-2.0%
+Xerician top
+9,861
+- 202
+-22.0%
+Xerician robe
+9,533
+- 153
+-16.0%
+Lizardman fang
+28
+0
+0.0%
+Saltpetre
+4
+0
++33.0%
+Sandworms
+97
+- 1
+-4.0%
+Raw anglerfish
+1,578
+- 33
+-7.0%
+Anglerfish
+1,587
+- 52
+-10.0%
+Ensouled goblin head
+255
+0
++16.0%
+Ensouled monkey head
+274
+0
+-23.0%
+Ensouled imp head
+800
+- 3
++52.0%
+Ensouled minotaur head
+521
+- 28
+-40.0%
+Ensouled scorpion head
+736
+- 19
+-19.0%
+Ensouled bear head
+829
+- 33
+-9.0%
+Ensouled unicorn head
+1,314
++2
+-0.0%
+Ensouled dog head
+1,027
+- 4
++7.0%
+Ensouled chaos druid head
+918
++23
+-8.0%
+Ensouled giant head
+1,161
+- 19
+-5.0%
+Ensouled ogre head
+1,494
++16
+-1.0%
+Ensouled elf head
+2,540
++17
++3.0%
+Ensouled troll head
+2,010
+- 7
+-0.0%
+Ensouled horror head
+2,567
++65
+-1.0%
+Ensouled kalphite head
+3,212
+- 121
++8.0%
+Ensouled dagannoth head
+3,204
+- 13
+-5.0%
+Ensouled bloodveld head
+4,000
++102
+-6.0%
+Ensouled tzhaar head
+4,279
+- 93
+-4.0%
+Ensouled demon head
+5,131
++201
+-7.0%
+Ensouled aviansie head
+6,517
++57
+-12.0%
+Ensouled abyssal head
+6,321
+- 70
+-2.0%
+Ensouled dragon head
+8,237
+- 77
+-5.0%
+Dynamite
+384
++4
+-9.0%
+Dragon warhammer
+48.3m
+- 2.1m
+-14.0%
+Dragon claws
+69.7m
+- 1.5m
+-18.0%
+Grape seed
+4,817
+0
++10.0%
+Light ballista
+669.4k
+- 6,876
+-5.0%
+Heavy ballista
+674.5k
+- 10.3k
+-10.0%
+Dragon javelin
+912
+- 23
+-13.0%
+Dragon javelin(p)
+1,510
+0
+-8.0%
+Dragon javelin(p+)
+2,451
+0
+-7.0%
+Dragon javelin(p++)
+2,519
+0
++7.0%
+Zenyte
+13.9m
+0
+0.0%
+Uncut zenyte
+13.8m
+0
++3.0%
+Zenyte amulet (u)
+13.8m
+0
+0.0%
+Zenyte shard
+9.8m
+- 487.0k
+-22.0%
+Zenyte bracelet
+15.7m
+0
++2.0%
+Zenyte necklace
+15.7m
+0
+-1.0%
+Zenyte ring
+15.7m
+0
++1.0%
+Zenyte amulet
+14.9m
+0
+0.0%
+Tormented bracelet
+12.9m
+- 605.2k
+-18.0%
+Necklace of anguish
+13.0m
+- 427.2k
+-16.0%
+Ring of suffering
+12.8m
+- 555.3k
+-18.0%
+Amulet of torture
+13.0m
+- 433.0k
+-17.0%
+Bronze javelin heads
+24
+0
+-7.0%
+Iron javelin heads
+40
+0
+-2.0%
+Steel javelin heads
+85
+0
++4.0%
+Mithril javelin heads
+163
+0
++5.0%
+Adamant javelin heads
+183
+0
++3.0%
+Rune javelin heads
+563
+- 13
+-7.0%
+Dragon javelin heads
+1,027
+- 26
+-10.0%
+Javelin shaft
+1
+0
+0.0%
+Light frame
+29.3k
++419
++2.0%
+Heavy frame
+38.8k
+0
+-12.0%
+Ballista limbs
+30.5k
+0
++2.0%
+Incomplete light ballista
+66.7k
+0
+-0.0%
+Incomplete heavy ballista
+89.3k
+0
+0.0%
+Ballista spring
+30.9k
+0
++0.0%
+Unstrung light ballista
+90.3k
+0
+-0.0%
+Unstrung heavy ballista
+106.9k
+0
++0.0%
+Monkey tail
+552.7k
++12.7k
+-7.0%
+Lumbridge graveyard teleport
+1,611
+0
++7.0%
+Draynor manor teleport
+2,463
+- 98
++53.0%
+Mind altar teleport
+2,375
+0
++31.0%
+Salve graveyard teleport
+2,699
+0
++46.0%
+Fenkenstrain's castle teleport
+2,560
+- 131
++35.0%
+West ardougne teleport
+2,549
+- 14
++35.0%
+Harmony island teleport
+2,092
+0
++13.0%
+Cemetery teleport
+2,133
+0
++31.0%
+Barrows teleport
+3,434
+- 34
++28.0%
+Ape atoll teleport
+3,820
+0
++15.0%
+Golovanova fruit top
+754
+0
++32.0%
+Uncooked botanical pie
+2,732
+0
+0.0%
+Botanical pie
+1,518
++21
++18.0%
+Damaged monkey tail
+117
+0
+-8.0%
+Redwood logs
+399
+0
++18.0%
+Redwood pyre logs
+1,567
+0
++7.0%
+Jar of darkness
+4.2m
+0
++9.0%
+Amulet of eternal glory
+24.1m
+- 1.2m
++2.0%
+Left eye patch
+18.5k
+0
+-15.0%
+Double eye patch
+43.8k
+0
+-17.0%
+Zombie head
+2,846
+0
+-1.0%
+Cyclops head
+3,279
+0
+-9.0%
+Nunchaku
+5,154
+0
+-14.0%
+Ancient d'hide boots
+1.1m
++33.8k
++31.0%
+Bandos d'hide boots
+1.1m
++9,402
++32.0%
+Guthix d'hide boots
+1.1m
++28.4k
++32.0%
+Armadyl d'hide boots
+1.7m
++6,546
++33.0%
+Saradomin d'hide boots
+1.2m
++38.3k
++32.0%
+Zamorak d'hide boots
+1.2m
++38.9k
++21.0%
+Arceuus house scarf
+7,539
++43
++0.0%
+Hosidius house scarf
+7,890
+0
++5.0%
+Lovakengj house scarf
+10.2k
+- 19
++11.0%
+Piscarilius house scarf
+6,670
++97
+-2.0%
+Shayzien house scarf
+24.3k
++1,008
++26.0%
+Dark tuxedo jacket
+2.7m
+0
++3.0%
+Dark tuxedo cuffs
+237.9k
+0
+-3.0%
+Dark trousers
+987.1k
+0
++8.0%
+Dark tuxedo shoes
+909.4k
+0
++25.0%
+Dark bow tie
+457.2k
+0
++14.0%
+Light tuxedo jacket
+3.6m
+0
++11.0%
+Light tuxedo cuffs
+210.5k
+0
+-13.0%
+Light trousers
+370.7k
+- 17.9k
+-15.0%
+Light tuxedo shoes
+829.8k
+0
++19.0%
+Light bow tie
+332.1k
+0
+-9.0%
+Blacksmith's helm
+32.3k
+0
+-28.0%
+Bucket helm
+49.1k
+0
+-13.0%
+Ranger gloves
+3.8m
+- 52.8k
++63.0%
+Holy wraps
+1.1m
+- 23.6k
++19.0%
+Dragon scimitar ornament kit
+1.8m
++19.5k
++38.0%
+Ring of nature
+16.3m
+- 196.7k
++33.0%
+Fancy tiara
+14.6k
+0
++20.0%
+3rd age axe
+484.4m
+0
+0.0%
+3rd age pickaxe
+762.6m
+0
+-4.0%
+Ring of coins
+32.0m
+- 1.7m
++80.0%
+Lesser demon mask
+22.3k
++462
++6.0%
+Greater demon mask
+38.7k
+0
++29.0%
+Black demon mask
+432.9k
+- 3,530
++21.0%
+Old demon mask
+192.7k
++8,029
++77.0%
+Jungle demon mask
+49.1k
++259
+-3.0%
+Samurai kasa
+830.8k
++33.8k
++58.0%
+Samurai shirt
+418.1k
++4,476
++32.0%
+Samurai gloves
+960.7k
++28.2k
++108.0%
+Samurai greaves
+186.6k
++4,965
++52.0%
+Samurai boots
+124.8k
+0
++37.0%
+Obsidian cape (r)
+5.8m
+- 42.0k
++67.0%
+Half moon spectacles
+90.9k
+0
+-30.0%
+Ale of the gods
+2.6m
++5,051
++0.0%
+Bucket helm (g)
+2.7m
+0
+-13.0%
+Torture ornament kit
+3.9m
+- 115.2k
+-15.0%
+Occult ornament kit
+3.3m
+- 55.8k
+-17.0%
+Armadyl godsword ornament kit
+1.3m
+0
++26.0%
+Bandos godsword ornament kit
+2.4m
+0
+-6.0%
+Saradomin godsword ornament kit
+6.2m
+0
++25.0%
+Zamorak godsword ornament kit
+633.7k
+- 15.1k
+-2.0%
+Mummy's head
+1.5m
+0
++9.0%
+Mummy's body
+875.6k
+0
+-13.0%
+Mummy's hands
+354.8k
+0
+-13.0%
+Mummy's legs
+961.4k
+0
++4.0%
+Mummy's feet
+306.9k
+0
+-9.0%
+Ankou mask
+10.7m
+- 469.4k
+-17.0%
+Ankou top
+25.5m
+0
+-1.0%
+Ankou gloves
+7.1m
+0
++27.0%
+Ankou's leggings
+12.8m
+- 245.4k
++2.0%
+Ankou socks
+5.6m
+0
++16.0%
+Bowl wig
+20.7k
+0
+-5.0%
+Arceuus house hood
+40.4k
+- 108
++7.0%
+Hosidius house hood
+27.8k
++514
++11.0%
+Lovakengj house hood
+35.7k
+0
++12.0%
+Piscarilius house hood
+26.3k
++179
++2.0%
+Shayzien house hood
+153.8k
+0
++49.0%
+Hood of darkness
+530.3k
++22.9k
++113.0%
+Robe top of darkness
+519.8k
++8,144
++39.0%
+Gloves of darkness
+286.7k
++10.2k
++88.0%
+Robe bottom of darkness
+548.1k
++7,069
++84.0%
+Boots of darkness
+314.1k
++12.6k
++124.0%
+Dragon defender ornament kit
+1.8m
+- 36.9k
++33.0%
+Gilded med helm
+564.9k
+0
++55.0%
+Gilded chainbody
+1.5m
+0
++89.0%
+Gilded sq shield
+543.7k
+0
++63.0%
+Gilded 2h sword
+5.9m
+0
++128.0%
+Gilded spear
+92.5k
+0
++4.0%
+Gilded hasta
+226.5k
+0
++24.0%
+Wooden shield (g)
+174.1k
+- 6,252
++46.0%
+Steel platebody (g)
+68.4k
+0
++70.0%
+Steel platelegs (g)
+23.5k
+0
++109.0%
+Steel plateskirt (g)
+3,749
+0
++27.0%
+Steel full helm (g)
+43.8k
+0
++77.0%
+Steel kiteshield (g)
+58.2k
++2,142
++98.0%
+Steel platebody (t)
+23.4k
+0
++57.0%
+Steel platelegs (t)
+13.4k
+0
++63.0%
+Steel plateskirt (t)
+1,328
+0
+-7.0%
+Steel full helm (t)
+14.5k
+0
++57.0%
+Steel kiteshield (t)
+28.7k
+0
++91.0%
+Monk's robe top (g)
+7.6m
+0
++10.0%
+Monk's robe (g)
+2.8m
+0
++48.0%
+Golden chef's hat
+1.1m
+0
++64.0%
+Golden apron
+470.5k
++20.4k
++73.0%
+Team cape zero
+6.5m
+- 339.7k
++56.0%
+Team cape x
+3.5m
+0
++82.0%
+Team cape i
+2.9m
+- 51.1k
++92.0%
+Holy blessing
+40.1k
++682
++49.0%
+Unholy blessing
+147.7k
++233
++39.0%
+Peaceful blessing
+9,287
++61
++5.0%
+Honourable blessing
+9,712
+- 43
++8.0%
+War blessing
+12.9k
++152
++3.0%
+Ancient blessing
+11.3k
++37
++12.0%
+Charge dragonstone jewellery scroll
+349
++17
+-1.0%
+Crier coat
+13.8k
++197
+-3.0%
+Crier bell
+4,423
+0
++1.0%
+Black leprechaun hat
+3,424
++112
+-3.0%
+Arceuus banner
+820
+0
+-25.0%
+Hosidius banner
+1,074
+0
++12.0%
+Lovakengj banner
+805
++34
+-21.0%
+Piscarilius banner
+1,116
+- 27
+-10.0%
+Shayzien banner
+1,261
+0
++12.0%
+Black unicorn mask
+36.0k
++806
+-11.0%
+White unicorn mask
+26.7k
++162
+-8.0%
+Cabbage round shield
+3,874
+0
+-12.0%
+Gnomish firelighter
+1,667
+0
++24.0%
+Steel trimmed set (lg)
+113.2k
+0
++66.0%
+Steel trimmed set (sk)
+97.6k
+0
+-0.0%
+Steel gold-trimmed set (lg)
+291.5k
+0
++110.0%
+Steel gold-trimmed set (sk)
+166.3k
+0
++16.0%
+Evil chicken feet
+1.3m
+0
++21.0%
+Evil chicken wings
+572.6k
+0
+-3.0%
+Evil chicken head
+856.5k
+0
++25.0%
+Evil chicken legs
+1.3m
+0
++16.0%
+Elder chaos top
+782.0k
+- 8,020
++36.0%
+Elder chaos robe
+464.8k
+- 15.0k
++61.0%
+Stale baguette
+350.5k
+0
+-11.0%
+Elder chaos hood
+1.1m
+- 3,919
++62.0%
+Tome of fire (empty)
+612.2k
+- 12.9k
+-4.0%
+Burnt page
+4,916
+- 61
+-19.0%
+Imbued heart
+18.7m
+- 974.6k
+-24.0%
+Leaf-bladed battleaxe
+130.0k
+- 304
+-6.0%
+Mist battlestaff
+223.9k
++8,592
++60.0%
+Mystic mist staff
+304.6k
++13.9k
++54.0%
+Dust battlestaff
+42.7k
++1,378
+-1.0%
+Mystic dust staff
+79.1k
++201
++13.0%
+Zamorak's grapes
+7,187
+0
++1.0%
+Hill giant club
+1.0m
+0
++45.0%
+Dragon thrownaxe
+4,128
++9
++23.0%
+Twisted bow
+1.1b 
++39.7m
+-8.0%
+Twisted buckler
+9.1m
+- 249.5k
+-2.0%
+Elder maul
+22.3m
+- 211.0k
+-10.0%
+Kodai wand
+63.4m
+- 2.3m
+-24.0%
+Dragon sword
+1.7m
+- 84.3k
++54.0%
+Dragon hunter crossbow
+156.4m
+- 4.7m
++13.0%
+Dinh's bulwark
+6.2m
+- 64.8k
+-16.0%
+Ancestral hat
+13.3m
+- 683.8k
+-23.0%
+Ancestral robe top
+67.6m
+- 2.8m
+-23.0%
+Ancestral robe bottom
+58.9m
+- 1.5m
+-17.0%
+Dragon harpoon
+7.2m
+- 70.4k
++37.0%
+Dexterous prayer scroll
+67.2m
++1.1m
+-6.0%
+Kodai insignia
+68.3m
+0
+-12.0%
+Torn prayer scroll
+45.6k
+- 403
+-4.0%
+Ancestral robes set
+140.4m
+- 3.9m
+-21.0%
+Arcane prayer scroll
+5.5m
+- 56.1k
+-22.0%
+Opal ring
+944
+0
+-9.0%
+Jade ring
+1,194
+0
+-9.0%
+Topaz ring
+2,087
+0
++0.0%
+Opal necklace
+954
+0
+-9.0%
+Jade necklace
+1,087
+0
+-4.0%
+Topaz necklace
+1,397
+0
+-4.0%
+Opal amulet (u)
+442
+0
+0.0%
+Jade amulet (u)
+732
+0
++2.0%
+Topaz amulet (u)
+3,820
+0
++9.0%
+Opal amulet
+374
+0
++0.0%
+Jade amulet
+835
+0
++11.0%
+Topaz amulet
+5,217
+0
+-4.0%
+Opal bracelet
+459
+0
+-6.0%
+Jade bracelet
+661
+0
++4.0%
+Topaz bracelet
+4,764
+0
+-3.0%
+Ring of pursuit
+686
+0
++1.0%
+Ring of returning(5)
+685
+0
+-6.0%
+Efaritay's aid
+813
+- 4
+-12.0%
+Dodgy necklace
+813
+- 38
+-12.0%
+Necklace of passage(5)
+1,169
++8
++13.0%
+Necklace of faith
+645
+0
++1.0%
+Amulet of bounty
+671
+0
++19.0%
+Amulet of chemistry
+1,138
+- 35
+-2.0%
+Burning amulet(5)
+5,355
+- 132
+-1.0%
+Expeditious bracelet
+834
++19
+-2.0%
+Flamtaer bracelet
+707
+- 19
+-6.0%
+Bracelet of slaughter
+5,264
+- 55
++1.0%
